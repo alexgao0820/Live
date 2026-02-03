@@ -57,21 +57,23 @@ https://t.freetv.fun/live/nowti-yu-6.php
 https://t.freetv.fun/live/nowti-yu-7.php
 #EXTINF:-1 group-title="体育",EUROSPORT 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
-#EXTINF:-1 group-title="新闻",Skynews
+#EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
-#EXTINF:-1 group-title="新闻",CNN
+#EXTINF:-1 group-title="国际新闻",CNN
 https://t.freetv.fun/live/cnn-4.m3u8
-#EXTINF:-1 group-title="新闻",BBC
+#EXTINF:-1 group-title="国际新闻",BBC
 https://t.freetv.fun/live/bbc-news-europe.m3u8
-#EXTINF:-1 group-title="新闻",BBC
+#EXTINF:-1 group-title="国际新闻",BBC
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="新闻",FOX
+#EXTINF:-1 group-title="国际新闻",FOX
 http://panelguys.top:8080/txd7Fd/030774/1818
-#EXTINF:-1 group-title="新闻",FOX
+#EXTINF:-1 group-title="国际新闻",FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="新闻",FOX LIVE NOW
+#EXTINF:-1 group-title="国际新闻",FOX LIVE NOW
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
-#EXTINF:-1 group-title="新闻",NEWSMAX
+#EXTINF:-1 group-title="国际新闻",NEWSMAX
 https://t.freetv.fun/live/newsmax.m3u8
-#EXTINF:-1 group-title="新闻",NEWSMAX2
+#EXTINF:-1 group-title="国际新闻",NEWSMAX2
 https://t.freetv.fun/live/newsmax-2-1.m3u8
+#EXTINF:-1 group-title="国际新闻",CBC NEWS NOW
+https://jmp2.uk/stvp-CAAJ2700011IF
