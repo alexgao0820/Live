@@ -49,6 +49,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
 http://148.113.160.49:14185
 #EXTINF:-1 group-title="国际",HBO+
 http://148.113.160.49:14193/
+#EXTINF:-1 group-title="国际",HBO POP
+http://148.113.160.49:14180/
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
 #EXTINF:-1 group-title="体育",NOW 2
