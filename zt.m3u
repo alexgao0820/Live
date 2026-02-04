@@ -43,6 +43,8 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/483.m3u8
 #EXTINF:-1 group-title="国际",HBO WEST
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
+#EXTINF:-1 group-title="国际",HBO Mundi
+http://148.113.160.49:14185
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
 #EXTINF:-1 group-title="体育",NOW 2
