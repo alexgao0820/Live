@@ -31,27 +31,27 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
 http://111.221.137.155:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1 group-title="港台",凤凰咨询
 http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 group-title="国际",HBO zone
+#EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
-#EXTINF:-1 group-title="国际",HBO 2
+#EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
-#EXTINF:-1 group-title="国际",HBO USA
+#EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
-#EXTINF:-1 group-title="国际",HBO TW
+#EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
-#EXTINF:-1 group-title="国际",HBO EAST
+#EXTINF:-1 group-title="电影",HBO EAST
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
-#EXTINF:-1 group-title="国际",HBO WEST
+#EXTINF:-1 group-title="电影",HBO WEST
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
-#EXTINF:-1 group-title="国际",HBO ZONE
+#EXTINF:-1 group-title="电影",HBO ZONE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
-#EXTINF:-1 group-title="国际",HBO Mundi
+#EXTINF:-1 group-title="电影",HBO Mundi
 http://148.113.160.49:14185
-#EXTINF:-1 group-title="国际",HBO+
+#EXTINF:-1 group-title="电影",HBO+
 http://148.113.160.49:14193/
-#EXTINF:-1 group-title="国际",HBO POP
+#EXTINF:-1 group-title="电影",HBO POP
 http://148.113.160.49:14180/
-#EXTINF:-1 group-title="国际",HBO Family
+#EXTINF:-1 group-title="电影",HBO Family
 http://148.113.160.49:14190/
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
