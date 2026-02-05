@@ -42,6 +42,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="港台",娱乐新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 #EXTINF:-1 group-title="电影",HBO 
@@ -80,6 +81,7 @@ http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 #EXTINF:-1 group-title="电影",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
 #EXTINF:-1 group-title="体育",NOW 2
@@ -96,6 +98,7 @@ https://t.freetv.fun/live/nowti-yu-6.php
 https://t.freetv.fun/live/nowti-yu-7.php
 #EXTINF:-1 group-title="体育",EUROSPORT 4K
 http://nvsoo4tx.megogo.xyz/iptv/UWA8DBPMZFQ9PX9ZLSBM7FFX/31475/index.m3u8
+
 #EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
 #EXTINF:-1 group-title="国际新闻",CNN
