@@ -27,10 +27,21 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv156
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
 #EXTINF:-1 group-title="港台",三立新闻
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港台",台视新闻
+https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 group-title="港台",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 group-title="港台",东森美洲
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 #EXTINF:-1 group-title="港台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港台",凤凰咨询
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+#EXTINF:-1 group-title="港台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+#EXTINF:-1 group-title="港台",娱乐新闻
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
