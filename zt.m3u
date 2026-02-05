@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="港台",中天新闻1
+#EXTINF:-1 group-title="港台",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
-#EXTINF:-1 group-title="港台",中天新闻2
+#EXTINF:-1 group-title="港台",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
-#EXTINF:-1 group-title="港台",中天新闻3
+#EXTINF:-1 group-title="港台",中天新闻
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
-#EXTINF:-1 group-title="港台",中天新闻4
+#EXTINF:-1 group-title="港台",中天新闻
 https://t.freetv.fun/live/zhong-tian-xin-wen-1.m3u8
-#EXTINF:-1 group-title="港台",中天新闻5
+#EXTINF:-1 group-title="港台",中天新闻
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-#EXTINF:-1 group-title="港台",中天新闻6
+#EXTINF:-1 group-title="港台",中天新闻2
 https://live.catvod.com/live.php?id=ctinews
-#EXTINF:-1 group-title="港台",中天新闻6
+#EXTINF:-1 group-title="港台",中天新闻2
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 #EXTINF:-1 group-title="港台",中视新闻
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
@@ -28,9 +28,9 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
 #EXTINF:-1 group-title="港台",三立新闻
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
 #EXTINF:-1 group-title="港台",凤凰卫视
-http://111.221.137.155:44330/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港台",凤凰咨询
-http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
