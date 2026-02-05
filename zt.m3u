@@ -68,6 +68,18 @@ http://148.113.160.49:14193/
 http://148.113.160.49:14180/
 #EXTINF:-1 group-title="电影",HBO Family
 http://148.113.160.49:14190/
+#EXTINF:-1 group-title="电影",HBO
+http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="电影",Paramount+ with Showtime
+http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="电影",Showtime 2
+http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="电影",Showtime Extreme
+http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="电影",Showtime Next
+http://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 group-title="电影",Showtime Women
+http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
 #EXTINF:-1 group-title="体育",NOW 2
