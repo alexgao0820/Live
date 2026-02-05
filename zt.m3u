@@ -46,16 +46,16 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 #EXTINF:-1 group-title="电影",HBO 
 http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="电影",HBO 
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
+#EXTINF:-1 group-title="电影",HBO 
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
 #EXTINF:-1 group-title="电影",HBO 2
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
-#EXTINF:-1 group-title="电影",HBO 
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
-#EXTINF:-1 group-title="电影",HBO 
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
 #EXTINF:-1 group-title="电影",HBO WEST
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
 #EXTINF:-1 group-title="电影",HBO ZONE
