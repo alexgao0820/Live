@@ -60,6 +60,10 @@ http://fl1.moveonjoy.com/HBO/index.m3u8
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
+#EXTINF:-1 group-title="电影",HBO
+http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="电影",HBO
+https://smart.dxjc.pp.ua/smart.php?id=hbohd_twn&token=tmxk
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
 #EXTINF:-1 group-title="电影",HBO 2
@@ -78,8 +82,6 @@ http://148.113.160.49:14193/
 http://148.113.160.49:14180/
 #EXTINF:-1 group-title="电影",HBO Family
 http://148.113.160.49:14190/
-#EXTINF:-1 group-title="电影",HBO
-http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="电影",Paramount+ with Showtime
 http://fl1.moveonjoy.com/SHOWTIME/index.m3u8
 #EXTINF:-1 group-title="电影",Showtime 2
