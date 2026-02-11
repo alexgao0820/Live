@@ -31,6 +31,8 @@ https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=litv-longturn14
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=iNEWS
 #EXTINF:-1 group-title="港台",台视新闻
 https://live.wcetv.com/hls/m3u8/ttvnews.m3u8
+#EXTINF:-1 group-title="港台",台视
+https://smart.dxjc.pp.ua/smart.php?id=ttv_taiwan&token=tmxk
 #EXTINF:-1 group-title="港台",TVBS亚洲
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
 #EXTINF:-1 group-title="港台",东森美洲
