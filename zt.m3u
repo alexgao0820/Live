@@ -113,6 +113,8 @@ http://208.87.242.79/livehttpplay?channel_id=13012
 http://67.220.67.246:2347/livehttpplay?channel_id=13012
 #EXTINF:-1 group-title="体育",NOW 7
 https://t.freetv.fun/live/nowti-yu-7.php
+#EXTINF:-1 group-title="体育",SKY SPORTS NEWS
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
 
 #EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
