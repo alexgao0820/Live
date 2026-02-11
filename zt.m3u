@@ -85,16 +85,32 @@ http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 
 #EXTINF:-1 group-title="体育",NOW 1
 https://t.freetv.fun/live/nowti-yu-1.php
+#EXTINF:-1 group-title="体育",NOW 1
+http://208.87.242.79/livehttpplay?channel_id=13007
 #EXTINF:-1 group-title="体育",NOW 2
 https://t.freetv.fun/live/nowti-yu-2.php
+#EXTINF:-1 group-title="体育",NOW 2
+http://208.87.242.79/livehttpplay?channel_id=13008
 #EXTINF:-1 group-title="体育",NOW 3
 https://t.freetv.fun/live/nowti-yu-3.php
+#EXTINF:-1 group-title="体育",NOW 3
+http://208.87.242.79/livehttpplay?channel_id=13009
 #EXTINF:-1 group-title="体育",NOW 4
 https://t.freetv.fun/live/nowti-yu-4.php
+#EXTINF:-1 group-title="体育",NOW 4
+http://208.87.242.79/livehttpplay?channel_id=13010
 #EXTINF:-1 group-title="体育",NOW 5
 https://t.freetv.fun/live/nowti-yu-5.php
+#EXTINF:-1 group-title="体育",NOW 5
+http://67.220.67.246:2347/livehttpplay?channel_id=13011
+#EXTINF:-1 group-title="体育",NOW 5
+http://208.87.242.79/livehttpplay?channel_id=13011
 #EXTINF:-1 group-title="体育",NOW 6
 https://t.freetv.fun/live/nowti-yu-6.php
+#EXTINF:-1 group-title="体育",NOW 6
+http://208.87.242.79/livehttpplay?channel_id=13012
+#EXTINF:-1 group-title="体育",NOW 6
+http://67.220.67.246:2347/livehttpplay?channel_id=13012
 #EXTINF:-1 group-title="体育",NOW 7
 https://t.freetv.fun/live/nowti-yu-7.php
 #EXTINF:-1 group-title="体育",EUROSPORT 4K
