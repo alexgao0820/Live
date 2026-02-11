@@ -114,7 +114,11 @@ http://67.220.67.246:2347/livehttpplay?channel_id=13012
 #EXTINF:-1 group-title="体育",NOW 7
 https://t.freetv.fun/live/nowti-yu-7.php
 #EXTINF:-1 group-title="体育",SKY SPORTS NEWS
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
+#EXTINF:-1 group-title="体育",SKY SPORTS NEWS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+#EXTINF:-1 group-title="体育",SKY SPORTS EVENT
+https://ad-playlistserver.aws.syncbak.com/playlist/13613390/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkdyYXkyMDE2MDgyOSJ9.eyJtaWQiOjEzNjEzMzkwLCJtZDUiOiI2Y2M5MzczYjIxZWIwNzQ4ZDA0YTRlYzYyMjU2YjBhMiIsImlhdCI6MTQ5NzM4MTU5NywiaXNzIjoiU3luY2JhayIsInN1YiI6IkdyYXkifQ.qJPiMCbnGjAn9wgPrGjVl3M9Xfc4CVSyoZTZ5OH-1jo&checkedby:iptvcat.com
 
 #EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
