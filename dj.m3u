@@ -19,6 +19,7 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 http://88.212.7.11/live/test_leo_hd_hevc/playlist.m3u8
 #EXTINF:-1 group-title="成人",Reality Kings HD
 http://88.212.7.11/live/test_realitykings_sd_hevc/playlist.m3u8
+
 #EXTM3U  url-tvg="https://epg.pw/xmltv/epg.xml.gz,https://xmltvfr.fr/xmltv/xmltv_fr.xml.gz,https://iptvx.one/EPG"
 #EXTINF:-1 group-title="私密頻道 ADULT" tvg-id="456841" tvg-logo="https://raw.githubusercontent.com/atsushi444/iptv/main/logo/amazing_tv.png",驚豔台
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
@@ -50,26 +51,38 @@ https://edge19.vedge.infomaniak.com/livecast/ik:carac5/manifest.m3u8
 https://edge19.vedge.infomaniak.com/livecast/ik:rougetv/manifest.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.tvbrowser.org/data/uploads/icons/3489946438aebffec54b07efa9287559.png",DMF
 https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="https://pbs.twimg.com/profile_images/1737936623147401217/v-O7v4yo_400x400.jpg",Playboy LA
+#EXTINF:-1 group-title="成人电视台" tvg-id="426102" tvg-logo="http://epg.one/img2/3249.png",Playboy LA
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="" tvg-logo="",Playboy
-http://mytv-extra.com:80/V713SWTY/D8T8KGTL/1274538
+#EXTINF:-1 group-title="成人电视台" tvg-id="2014" tvg-logo="http://cdn.epg.one/img2/2014.png",Playboy
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132488
+#EXTINF:-1 group-title="成人电视台" tvg-id="3211" tvg-logo="http://epg.one/img2/3211.png",Playboy Plus
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6242/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="426158" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sexy-hot-br.svg",Sexy Hot
-http://conecdg.me:80/Andrielly.Silva/Br131221/3920382
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6282/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="426016" tvg-logo="https://www.lyngsat.com/logo/tv/vv/venus-ar.svg",Venus
-http://213.226.69.130/iptv/3K5Z3VE8M7N89U/6284/index.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6284/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="76642" tvg-logo="http://cdn.epg.one/img2/7743.png",Beate Uhse TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12163/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="491017" tvg-logo="https://epg.iptvx.one/picons/bcu-charm.png",BCU Charm HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18053/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="6926" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe
-http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12113/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="6814" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920370
 #EXTINF:-1 group-title="成人电视台" tvg-id="7556" tvg-logo="https://epg.iptvx.one/picons/hustler-hd.png",Hustler HD
-http://a0bn5xro.rostelekom.xyz/iptv/V4ZUD45ZF6ATGU8AKVBGHN9Z/244/index.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
-
-#EXTINF:-1 group-title="成人电视台" tvg-id="7519" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png",Vivid Red
-http://conecdg.me:80/Andrielly.Silva/Br131221/3920386
-#EXTINF:-1 group-title="成人电视台" tvg-id="465019" tvg-logo="https://www.maxvisioncorp.com/wp-content/uploads/2019/12/Logo-Bang-U.svg",Bang U
-http://conecdg.me:80/Andrielly.Silva/Br131221/3920264
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/244/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6875" tvg-logo="https://epg.iptvx.one/picons/babes-tv.png",Babes TV
+http://tv.diablotv.net:8080/antony2019/00398f98d123/164496
+#EXTINF:-1 group-title="成人电视台" tvg-id="7461" tvg-logo="https://epg.iptvx.one/picons/dorcel.png",Dorcel TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/245/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6222" tvg-logo="https://epg.iptvx.one/picons/dorcel-xxx.png",Dorcel XXX
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/663
+#EXTINF:-1 group-title="成人电视台" tvg-id="6930" tvg-logo="https://epg.iptvx.one/picons/erox-ua.png",Erox HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6296/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7767" tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png",Eroxxx HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5015/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="378700" tvg-logo="https://epg.iptvx.one/picons/exxxotica.png",Exxxotica
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/2397/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="407686" tvg-logo="https://epg.iptvx.one/picons/eroluxe-anal.png",EroLuxe Anal
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920262
 #EXTINF:-1 group-title="成人电视台" tvg-id="407701" tvg-logo="https://epg.iptvx.one/picons/eroluxe-babysitter.png",EroLuxe Babysitter
@@ -78,83 +91,373 @@ http://conecdg.me:80/Andrielly.Silva/Br131221/3920261
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920265
 #EXTINF:-1 group-title="成人电视台" tvg-id="407658" tvg-logo="https://epg.iptvx.one/picons/eroluxe-shemale.png",EroLuxe Shemale
 http://conecdg.me:80/Andrielly.Silva/Br131221/3920266
-#EXTINF:-1 group-title="成人电视台" tvg-id="6875"tvg-logo="https://epg.iptvx.one/picons/babes-tv.png",Babes TV
-http://conecdg.me:80/Andrielly.Silva/Br131221/3920263
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.freeshot.live/upload/source/BalkanErotic-logo.png",Balkan Erotic
-
+#EXTINF:-1 group-title="成人电视台" tvg-id="440975" tvg-logo="https://epg.iptvx.one/picons/eromania4k.png",Eromania 4K
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/10049/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7039" tvg-logo="https://epg.iptvx.one/picons/extasy4k.png",Extasy 4K
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5014/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6009" tvg-logo="https://epg.iptvx.one/picons/extasytv.png",Extasy TV
+http://tv.diablotv.net:8080/antony2019/00398f98d123/164513
+#EXTINF:-1 group-title="成人电视台" tvg-id="390419" tvg-logo="https://epg.iptvx.one/picons/leo-tv-xxx.png",Leo TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6272/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="445905" tvg-logo="https://epg.iptvx.one/picons/liberty-erotika.png",Liberty Эротика
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/16069/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6777" tvg-logo="https://epg.iptvx.one/picons/russkaya-noch.png",Русская Ночь
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132476
+#EXTINF:-1 group-title="成人电视台" tvg-id="453371" tvg-logo="https://epg.iptvx.one/picons/penthouse-gold.png",Penthouse Gold
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5011/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="418030" tvg-logo="https://epg.iptvx.one/picons/penthouse-quickies.png",Penthouse Reality TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5013/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7265" tvg-logo="https://epg.iptvx.one/picons/penthouse-hd.png",Penthouse Passion
+http://bde.online24.pm/play/1497/65F8DEA9B8759ED/video.m3u8 
+#EXTINF:-1 group-title="成人电视台" tvg-id="41290" tvg-logo="https://epg.iptvx.one/picons/private-tv.png",Private TV
+http://tv.diablotv.net:8080/antony2019/00398f98d123/164546
 #EXTINF:-1 group-title="成人电视台" tvg-id="6597" tvg-logo="https://epg.iptvx.one/picons/redlight-hd.png",Redlight HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/242/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6472" tvg-logo="https://epg.iptvx.one/picons/redlips.png",Red Lips
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6271/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="390425" tvg-logo="https://epg.iptvx.one/picons/reality-kings.png",Reality Kings TV
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19480
+#EXTINF:-1 group-title="成人电视台" tvg-id="6957" tvg-logo="https://epg.iptvx.one/picons/super-one.png",Super One HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6298/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7519" tvg-logo="https://epg.iptvx.one/picons/vivid-red.png",Vivid Red
+http://conecdg.me:80/Andrielly.Silva/Br131221/3920386
+#EXTINF:-1 group-title="成人电视台" tvg-id="123740" tvg-logo="https://epg.iptvx.one/picons/yosso-sexy.png",YOSSO TV SEXY
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/14176/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="453367" tvg-logo="https://epg.iptvx.one/picons/passionxxx.png",PassionXXX
+http://bytrrip2025.xyz:8880/luciano6875/5xgynpu8/198254
+#EXTINF:-1 group-title="成人电视台" tvg-id="465019" tvg-logo="https://www.maxvisioncorp.com/wp-content/uploads/2019/12/Logo-Bang-U.svg",Bang U
+http://conecdg.me:80/Andrielly.Silva/Br131221/3920264
+#EXTINF:-1 group-title="成人电视台" tvg-id="3170" tvg-logo="http://epg.one/img2/3170.png",Extasy HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11051/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6321" tvg-logo="http://epg.one/img2/6321.png",Tviksel Кино 18+ HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18075/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3246" tvg-logo="http://epg.one/img2/3246.png",Hot Pleasure
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6277/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3250" tvg-logo="http://epg.one/img2/3250.png",Red XXX
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6281/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4788" tvg-logo="http://epg.one/img2/4788.png",OX-AX HD
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11068/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3239" tvg-logo="http://cdn.epg.one/img2/3239.png",Balkan Erotic
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6270/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4932" tvg-logo="http://cdn.epg.one/img2/4932.png",Meiden van Holland
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12125/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3257" tvg-logo="http://epg.one/img2/3257.png",XY Plus
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6288/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3255" tvg-logo="http://epg.one/img2/3255.png",XY Max
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6286/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3256" tvg-logo="http://epg.one/img2/3256.png",XY Mix
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6287/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dusk-tv-nl.svg",Dusk
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/694
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://secretcircle.com/sc_logo_trans.png",Secret Circle
+http://protzpwcf1.top:8080/pro3831767104449/252df4faac14/679
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://tvdigitalefacile.it/wp-content/uploads/2023/01/canale-170-sct-pay-digitale-terrestre.jpg",CentoXCento TV
+http://91.218.50.136:8080/Rose35torres/iB7101/2601
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://sat.nov.ru/images/pinko_tv.png",Pinko Club TV
+http://vipbxcass.top:8080/VIP017901757932185619/b0bf8b2b28bd/132492
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hot-pt.png",Hot
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6275/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4913" tvg-logo="http://epg.one/img2/4913.png",Alba XXX HD1
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12106/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7759" tvg-logo="http://epg.one/img2/7759.png",Alba XXX HD2
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12194/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4948" tvg-logo="http://epg.one/img2/4948.png",Veraporn Group Sex
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12141/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4949" tvg-logo="http://epg.one/img2/4949.png",Veraporn Group Sex 2
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12142/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7251" tvg-logo="http://epg.one/img2/7251.png",CineMan ExExEx
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/20089/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7252" tvg-logo="http://epg.one/img2/7252.png",CineMan ExExEx TWO
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/20090/index.m3u8
 
-#EXTINF:-1 group-title="成人电视台" tvg-id="470393" tvg-logo="https://epg.iptvx.one/picons/dorcel.png",Dorcel TV
-http://88.212.7.11/live/test_dorcel_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="6930" tvg-logo="https://epg.iptvx.one/picons/erox-ua.png",Erox HD
-http://88.212.7.11/live/test_erox_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-id="7767" tvg-logo="https://epg.iptvx.one/picons/eroxxxhd.png",Eroxxx HD
-http://88.212.7.11/live/test_eroxxx_hd_hevc/playlist.m3u8
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-id="3133" tvg-logo="http://epg.one/img2/3133.png",21 Sextury
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12205/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7725" tvg-logo="http://epg.one/img2/7725.png",DP Fanatics
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12111/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7749" tvg-logo="http://epg.one/img2/7749.png",Asshole Fever
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12169/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7752" tvg-logo="http://epg.one/img2/7752.png",Anal Teen Angels
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12183/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3135" tvg-logo="http://epg.one/img2/3135.png",Adult Time
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6166/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3137" tvg-logo="http://epg.one/img2/3137.png",Analized
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6168/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7751" tvg-logo="http://epg.one/img2/7751.png",Anal Time
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12181/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7753" tvg-logo="http://epg.one/img2/7753.png",Anal Only
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12184/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7754" tvg-logo="http://epg.one/img2/7754.png",Anal Mom
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12189/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7755" tvg-logo="http://epg.one/img2/7755.png",Anal 4K
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12190/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7756" tvg-logo="http://epg.one/img2/7756.png",Amateur Boxxx
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12191/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7757" tvg-logo="http://epg.one/img2/7757.png",All Anal
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12192/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7758" tvg-logo="http://epg.one/img2/7758.png",Alex Legend
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12193/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3151" tvg-logo="http://epg.one/img2/3151.png",Brazzers
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6182/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3150" tvg-logo="http://epg.one/img2/3150.png",Brazzers eXXtra
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6181/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3161" tvg-logo="http://epg.one/img2/3161.png",Day with a Pornstar
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6192/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3191" tvg-logo="http://epg.one/img2/3191.png",Hot and Mean
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6222/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7727" tvg-logo="http://epg.one/img2/7727.png",Dirty Masseur
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12128/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3142" tvg-logo="http://epg.one/img2/3142.png",Bang Bros
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6173/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3204" tvg-logo="http://epg.one/img2/3204.png",Monsters of Cock
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6235/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7746" tvg-logo="http://epg.one/img2/7746.png",Bang POV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12166/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7747" tvg-logo="http://epg.one/img2/7747.png",Bang Bus
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12167/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7750" tvg-logo="http://epg.one/img2/7750.png",Ass Parade
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12178/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3140" tvg-logo="http://epg.one/img2/3140.png",Babes
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6172/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3143" tvg-logo="http://epg.one/img2/3143.png",Bang!
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6174/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3147" tvg-logo="http://epg.one/img2/3147.png",Blacked
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6178/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7741" tvg-logo="http://epg.one/img2/7741.png",Bratty Sis
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12161/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7742" tvg-logo="http://epg.one/img2/7742.png",Brand New Amateurs
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12162/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7744" tvg-logo="http://epg.one/img2/7744.png",BBC Pie
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12164/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7748" tvg-logo="http://epg.one/img2/7748.png",Banana Fever
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12168/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3154" tvg-logo="http://epg.one/img2/3154.png",Cherry Pimps
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6185/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3155" tvg-logo="http://epg.one/img2/3155.png",Club Sweethearts
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6186/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3158" tvg-logo="http://epg.one/img2/3158.png",Cum Louder
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6189/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7738" tvg-logo="http://epg.one/img2/7738.png",Cum4k
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12157/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7739" tvg-logo="http://epg.one/img2/7739.png",Cum Perfection
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12158/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3163" tvg-logo="http://epg.one/img2/3163.png",DDF Network
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6194/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3162" tvg-logo="http://epg.one/img2/3162.png",DDF Busty
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6193/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3186" tvg-logo="http://epg.one/img2/3186.png",DDF Hands on Hardcore
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6217/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7722" tvg-logo="http://epg.one/img2/7722.png",Euro Girls On Girls
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12108/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3164" tvg-logo="http://epg.one/img2/3164.png",Digital Desire
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6195/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3165" tvg-logo="http://epg.one/img2/3165.png",Digital Playground
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6196/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3166" tvg-logo="http://epg.one/img2/3166.png",Dorcel Club
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6197/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7729" tvg-logo="http://epg.one/img2/7729.png",Dirty Flix
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12130/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7730" tvg-logo="http://epg.one/img2/7730.png",Deepthroat Sirens
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12138/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7731" tvg-logo="http://epg.one/img2/7731.png",Deep Lush
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12139/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7732" tvg-logo="http://epg.one/img2/7732.png",Dark X
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12140/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7733" tvg-logo="http://epg.one/img2/7733.png",Dane Jones
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12143/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7734" tvg-logo="http://epg.one/img2/7734.png",Dancing Bear
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12144/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7735" tvg-logo="http://epg.one/img2/7735.png",Dad Crush
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12154/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="9703" tvg-logo="http://epg.one/img2/9703.png",Devils Film
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12137/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3168" tvg-logo="http://epg.one/img2/3168.png",Evil Angel
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6199/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3169" tvg-logo="http://epg.one/img2/3169.png",Evolved Fights
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6200/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7721" tvg-logo="http://epg.one/img2/7721.png",Exotic4k
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12107/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7723" tvg-logo="http://epg.one/img2/7723.png",Erotica X
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12109/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7724" tvg-logo="http://epg.one/img2/7724.png",Erotic Spice
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12110/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3171" tvg-logo="http://epg.one/img2/3171.png",Fake Taxi
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6202/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3181" tvg-logo="http://epg.one/img2/3181.png",FemJoy
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6212/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7736" tvg-logo="http://epg.one/img2/7736.png",Family Swap XXX
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12155/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7737" tvg-logo="http://epg.one/img2/7737.png",Family Strokes
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12156/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3187" tvg-logo="http://epg.one/img2/3187.png",Hard X
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6218/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3189" tvg-logo="http://epg.one/img2/3189.png",Hitzefrei
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6220/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3190" tvg-logo="http://epg.one/img2/3190.png",Holed
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6221/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3192" tvg-logo="http://epg.one/img2/3192.png",Hot Guys Fuck
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6223/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4994" tvg-logo="http://epg.one/img2/4994.png",Hot Wife XXX
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12187/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3194" tvg-logo="http://epg.one/img2/3194.png",Japan HDV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6225/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3196" tvg-logo="http://epg.one/img2/3196.png",Lesbea
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6227/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3198" tvg-logo="http://epg.one/img2/3198.png",Lethal Hardcore
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6229/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3199" tvg-logo="http://epg.one/img2/3199.png",Little Asians
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6230/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3201" tvg-logo="http://epg.one/img2/3201.png",Lust Cinema
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6232/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3205" tvg-logo="http://epg.one/img2/3205.png",MYLF
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6236/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3185" tvg-logo="http://epg.one/img2/3185.png",Got MYLF
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6216/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png",MetArt
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6233/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3202" tvg-logo="http://epg.one/img2/3202.png",MetArt
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12160/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3206" tvg-logo="http://epg.one/img2/3206.png",Naughty America
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6237/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="7726" tvg-logo="http://epg.one/img2/7726.png",Dirty Wives Club
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12122/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3207" tvg-logo="http://epg.one/img2/3207.png",Nubiles
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6238/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3214" tvg-logo="http://epg.one/img2/3214.png",Private
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6245/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3215" tvg-logo="http://epg.one/img2/3215.png",Public Agent
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6246/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3216" tvg-logo="http://epg.one/img2/3216.png",Reality Kings
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6247/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3217" tvg-logo="http://epg.one/img2/3217.png",RK Prime
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6248/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3218" tvg-logo="http://epg.one/img2/3218.png",RK TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6249/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3235" tvg-logo="http://epg.one/img2/3235.png",We Live Together
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6266/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png",SexArt
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6165/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3222" tvg-logo="http://epg.one/img2/3222.png",SexArt
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6253/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3221" tvg-logo="http://epg.one/img2/3221.png",Sex With Muslims
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6252/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3224" tvg-logo="http://epg.one/img2/3224.png",SINematica
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6255/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3227" tvg-logo="http://epg.one/img2/3227.png",Tiny 4K
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6258/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3229" tvg-logo="http://epg.one/img2/3229.png",True Amateurs
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6260/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png",Tushy
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6261/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3230" tvg-logo="http://epg.one/img2/3230.png",Tushy
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12188/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3231" tvg-logo="http://epg.one/img2/3231.png",Tushy Raw
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6262/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3234" tvg-logo="http://epg.one/img2/3234.png",Vixen
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6265/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3236" tvg-logo="http://epg.one/img2/3236.png",White Boxxx
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6267/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="3237" tvg-logo="http://epg.one/img2/3237.png",Wicked
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/6268/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.pornxpert.com/contents/content_sources/194/s2_21naturals-pornxpert.jpg",Adultos Premium - 21 Naturals
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172814
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/309/c1_av.jpg",Adultos Premium - AV Taxi
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172815
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/30/c1_babes-com.jpg",Adultos Premium - Babes
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172818
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/34/c1_bang-bros.jpg",Adultos Premium - BangBros
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172819
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/51/c1_blacked-com.jpg",Adultos Premium - Blacked
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172820 
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/221/c1_sexmex.jpg",Adultos Premium - Sexmex
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172821
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/248/c1_team-skeet.jpg",Adultos Premium - Team Skeet
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172822
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/101/c1_familystrokes.jpg",Adultos Premium - Family Strokes
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172823
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/90/c1_evil-angel.jpg",Adultos Premium - Evil Angel
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172824
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/82/c1_dorcel-club.jpg",Adultos Premium - Dorcel Club
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172830
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/204/c1_private.jpg",Adultos Premium - Private
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172832
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/207/c1_s1_public-agent.jpg",Adultos Premium - Public Agent
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172833
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/166/c1_s1_mofos.jpg",Adultos Premium - Mofos
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172834
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/338/c1_inka.jpg",Adultos Premium - Inka Sex
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172835
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/98/c1_fake-hub.jpg",Adultos Premium - Fake Hub
+http://tv.diablotv.net:8080/antony2019/00398f98d123/172836
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://static.pornhat.com/contents/dvds/groups/99/c1_s1_fake-taxi.jpg",Adultos Premium - Fake Taxi
+http://tv.diablotv.net:8080/antony2019/00398f98d123/173019
 
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Blue TV
+http://ip.xtremetv.eu:8000/hizirarkadashollanda/V39WCmGCgSp8/10348
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Olero
+http://tv.diablotv.net:8080/antony2019/00398f98d123/164505
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Desire
+http://epicboss.live:80/bjune@teksavvy.com/5193594414/19523
 
 #EXTINF:-1 group-title="成人电视台" tvg-id="425988" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/rxpvwp1436844866.png",Sextreme
-
+http://91.218.50.136:8080/Rose35torres/iB7101/2298
+#EXTINF:-1 group-title="成人电视台" tvg-id="6126" tvg-logo="https://epg.iptvx.one/picons/playboy-tv.png",Playboy TV
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/527/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="402082" tvg-logo="https://epg.iptvx.one/picons/blue-hustler.png",Blue Hustler
+http://tv.diablotv.net:8080/antony2019/00398f98d123/164502
 #EXTINF:-1 group-title="成人电视台" tvg-id="5956" tvg-logo="https://epg.iptvx.one/picons/brazzers.png",Brazzers TV Europe Россия
-
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/910/index.m3u8
 #EXTINF:-1 group-title="成人电视台" tvg-id="6704" tvg-logo="https://epg.iptvx.one/picons/hustler-tv.png",Hustler TV
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hot-pt.png",Hot
-
+http://tv.diablotv.net:8080/antony2019/00398f98d123/163948
 #EXTINF:-1 group-title="成人电视台" tvg-id="451376" tvg-logo="https://epg.iptvx.one/picons/vivid-tv.png",Vivid TV Europe
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto1.jpg",Adult 1
-
-#EXTINF:-1 group-title="成人电视台" tvg-id="446068" tvg-logo="https://epg.iptvx.one/picons/pink-ero-1-rs.png",Pink Erotic 1
-
-#EXTINF:-1 group-title="成人电视台" tvg-id="446069" tvg-logo="https://epg.iptvx.one/picons/pink-ero-2-rs.png",Pink Erotic 2
-
-#EXTINF:-1 group-title="成人电视台" tvg-id="446095" tvg-logo="https://epg.iptvx.one/picons/pink-ero-3-rs.png",Pink Erotic 3
-
-#EXTINF:-1 group-title="成人电视台" tvg-id="446066" tvg-logo="https://epg.iptvx.one/picons/pink-ero-4-rs.png",Pink Erotic 4
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Eroticauto5.jpg",Pink Erotic 5
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Eroticauto6.jpg",Pink Erotic 6
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Eroticauto7.jpg",Pink Erotic 7
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Eroticauto8.jpg",Pink Erotic 8
-
+http://cu.nonland.net:8080/cctv6173/cvvg6698/3891
 #EXTINF:-1 group-title="成人电视台" tvg-id="7011" tvg-logo="https://epg.iptvx.one/picons/barely-legal.png",Barely Legal TV
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
-#EXTINF:-1 group-title="成人电视台" tvg-logo="",
-
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132469
+#EXTINF:-1 group-title="成人电视台" tvg-id="451197" tvg-logo="https://epg.iptvx.one/picons/xxl-xxx.png",XXL
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/5009/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://cdn.mitvstatic.com/channels/br_sexprive-brasileirinhas_m.png",Sex Prive
+http://91.218.50.136:8080/Rose35torres/iB7101/46045
+#EXTINF:-1 group-title="成人电视台" tvg-logo="https://wnetmedia.net/wp-content/uploads/2022/10/Adultauto1.jpg",Adult 1
+http://conecdg.me:80/Andrielly.Silva/Br131221/3920257
+#EXTINF:-1 group-title="成人电视台" tvg-id="446068" tvg-logo="http://epg.one/img2/4953.png",Pink Erotic 1
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12146/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="446069" tvg-logo="http://epg.one/img2/4954.png",Pink Erotic 2
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12147/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="446095" tvg-logo="http://epg.one/img2/4955.png",Pink Erotic 3
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12148/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="446066" tvg-logo="http://epg.one/img2/4956.png",Pink Erotic 4
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12149/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4957" tvg-logo="http://epg.one/img2/4957.png",Pink Erotic 5
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12150/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4958" tvg-logo="http://epg.one/img2/4958.png",Pink Erotic 6
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12151/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4959" tvg-logo="http://epg.one/img2/4959.png",Pink Erotic 7
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12152/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4960" tvg-logo="http://epg.one/img2/4960.png",Pink Erotic 8
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12153/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="2526" tvg-logo="http://epg.one/img2/2526.png",French Lover
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12124/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="6322" tvg-logo="http://epg.one/img2/6322.png",Tviksel Кино 18+ International
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/18076/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4943" tvg-logo="http://cdn.epg.one/img2/4943.png",Passie XXX
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/12136/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-id="4787" tvg-logo="http://epg.one/img2/4787.png",KinoXXX
+http://a0bn5xro.rostelekom.xyz/iptv/3K5Z3VE8M7N89U/11052/index.m3u8
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Legal
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132496
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Naughty
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132497
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Dajmedol Pohotnice
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132510
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Dajmedol Fetis
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132554
+#EXTINF:-1 group-title="成人电视台" tvg-logo="",Dajmedol Fantazije
+http://vipbxcass.top:8080/vip1981770215764/70489515dc25/132500
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
 #EXTINF:-1 group-title="成人电视台" tvg-logo="",
 
 #EXTINF:-1 group-title="" tvg-logo="https://www.alterum.ch/uploads/press_page/image/29/LOGO_CARAC_TV.png",CARAC2
 https://edge19.vedge.infomaniak.com/livecast/ik:onefmmd/manifest.m3u8
-
 
 【Video】
 #EXTINF:-1 group-title="国产" tvg-logo="https://public.swag.live/messages/5fd238f3586c4ec1306a7143/poster.jpg",SWAG 柔柔@elvababe NTR人妻的外遇日記，一次比一次更大膽的讓老公戴綠帽[顏射+口爆+內射]！
@@ -187,10 +490,6 @@ https://u89ey.cdnedge.live/file/avple-images/hls/61a80d367aac5d7ef57bda62/playli
 https://t26.cdn2020.com/video/m3u8/2024/01/07/f2c12b0d/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://public.swag.live/messages/6201451550ba14da28f332ed/poster.jpg",SWAG 柔柔@elvababe 與富二代的邂逅-口爆系列
 https://m3u8.34cdn.com/newhd/202306/649a3fcfb34733324e3357f7/hls/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##ED Mosaic
 #EXTINF:-1 group-title="国产" tvg-logo="https://media-cdn2.avjoy.me/media/avjoytmb/tmb/21691/20.jpg",ED Mosaic 柔柔@elvababe 千萬不要找一個男人來忘記另一個男人要找就找兩個或三個或更多
@@ -199,40 +498,12 @@ https://krevonix.com/20241029/o8Kx3Yn1/2000kb/hls/index.m3u8
 https://surrit.com/8b049272-37b4-4f0e-bc3f-35bfaa45178a/1280x720/video.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://cdn.furuke.com/img/sub-project-c/24/fa/fa48654853c54513a79d55dceca5e02965e6da93.jpg",ED Mosaic 黎星若 Stacy 首次尝试与多名男生 一边喝着红酒一边打炮
 https://f125c1.cdnedge.live/file/avple-asserts/hls/65ea473b4065277a0974dc83/playlist.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##爱豆传媒
 #EXTINF:-1 group-title="国产" tvg-logo="https://img98.pixhost.to/images/170/492611631_idg5457.png",爱豆传媒.IDG5457.菲嫒.房产小妹下药魅惑业主激情签单
 https://t27.cdn2020.com/video/m3u8/2024/07/16/b351c3f7/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
 
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##91制片厂/果冻传媒/扣扣传媒(update:91CM,)
+##91制片厂/果冻传媒/扣扣传媒/偶密国际/微密圈/维秘传媒(update:91CM,)
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2208/2-220S0095U10-L.jpg",91YCM-019.美凉子.兒子給老子戴綠帽子
 https://t27.cdn2020.com/video/m3u8/2022/08/28/163f08e8/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/220806/2-220P60630490-L.jpg",91YCM-004.美凉子.为了结婚讨好大舅哥
@@ -1383,6 +1654,9 @@ https://t26.cdn2020.com/video/m3u8/2022/03/27/ed3daef4/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2022/04/01/cdb78724/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/220605/2-2206050U3500-L.jpg",91CM-250.小艺.端午节特辑.女体肉粽.将美人细致包裹
 https://t27.cdn2020.com/video/m3u8/2022/06/04/3799b14f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2305/D-050PST92e9aP233S.jpg",91CM-255.叶莲娜 爱丽丝.姐妹同性的快乐
+https://t27.cdn2020.com/video/m3u8/2023/05/07/f5edf340/index.m3u8
+
 #EXTINF:-1 group-title="国产" tvg-logo="https://picture.avking.xyz/20230730/20230730213624106106.jpg",91MS-001.金巧巧.女优面试一.91新人試鏡.下部女主你來定
 https://t26.cdn2020.com/video/m3u8/2021/08/21/4f4f0f44/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://picture.avking.xyz/20230730/20230730214141779779.jpg",91MS-002.女优面试二.初次试镜做爱.我们挑.你们定
@@ -1547,12 +1821,96 @@ https://i3qss1.cdnedge.live/file/avple-asserts/hls/65f9471a063bc26e9c061040/play
 https://f125c1.cdnedge.live/file/avple-asserts/hls/65f9471a063bc26e9c061041/playlist.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2407/D-0F60Q629b3d35R3506.jpg",GDCM-066.米欧.周处操三害
 https://t27.cdn2020.com/video/m3u8/2024/07/04/4172f5c6/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2021/08/1629013968-9c9a07060b9a449.jpg",91FHT-001.粉红兔.女友的惊喜
+https://t26.cdn2020.com/video/m3u8/2021/08/16/0be27e36/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/05/1651649962-46a73ba6a7463b4.jpg",91CMX-001.范可可.蜜桃成熟时之爆干亲妹妹
+https://t26.cdn2020.com/video/m3u8/2022/05/04/467411d3/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/05/1651936384-43c4638becce40e.jpg",91CMX-002.林凤娇.到府水电工强奸少妇
+https://t26.cdn2020.com/video/m3u8/2022/05/08/d997fa0d/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1672486367-725ac5a0f8d3469.jpg",OM-001.佳芯.极乐圣诞.圣诞老人的坏女孩名单
+https://t27.cdn2020.com/video/m3u8/2022/12/28/e089dad7/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1673016055-6c037eb777cb0b0.jpg",OM-002.Lilit.元旦特别企划.战狗
+https://t27.cdn2020.com/video/m3u8/2023/01/05/cfe4f5d8/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674718589-fdd75d385206e4a.jpg",OM-003.邓紫晴.人在囧途之台囧.二傻出征性爱之城
+https://t27.cdn2020.com/video/m3u8/2023/01/26/60666f9e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1678063319-833ccbd1d8df192.jpg",OM-004.梁芸菲.钢铁猛男变萌妹
+https://t27.cdn2020.com/video/m3u8/2023/03/05/955c23df/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/09/1693793711-1886a295f6eec18.png",WMOG-001.小水水.大奶喷水姬的潮吹释放
+https://t26.cdn2020.com/video/m3u8/2023/09/07/9db5459f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/09/1693793754-0b3a40112b8821d.png",WMOG-002.明里柚.害羞新人COS首秀
+https://t26.cdn2020.com/video/m3u8/2023/09/04/753c4d73/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/09/1695122421-4c66bd2b81b45d9.png",WMOG-003.明日花香.呆萌医生的上门服务
+https://t26.cdn2020.com/video/m3u8/2023/09/18/3c6ebac0/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/09/1695302408-fecad581ac064d9.png",WMOG-004.小水水.甜美幼教肉身贷款
+https://t26.cdn2020.com/video/m3u8/2023/09/21/59671f9a/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/09/1695934860-b400684885e4465.png",WMOG-005.小水水.E奶女神黑丝诱惑
+https://t26.cdn2020.com/video/m3u8/2023/09/27/f3685532/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/10/1697872760-7f109a5b015081f.png",WMOG-006.小水水.大奶女秘书的黑丝诱惑
+https://t26.cdn2020.com/video/m3u8/2023/10/18/0c51df07/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/11/1699273439-1bc0065051ebff5.png",WMOG-007.小小酱.中出清纯丝袜妹妹
+https://t26.cdn2020.com/video/m3u8/2023/11/05/0935241d/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/11/1699504011-fde6b2f922aff7f.png",WMOG-008.小敏儿.女室友体操服的诱惑
+https://t26.cdn2020.com/video/m3u8/2023/11/08/f5e50795/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/11/1699799626-319684f51d2f85d.png",WMOG-009.明里柚.老师给予我的特殊教育
+https://t26.cdn2020.com/video/m3u8/2023/11/12/16ba7d1a/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/11/1700874903-9b416c9565ce0dd.png",WMOG-010.小水水.调教反差E奶瑜伽教练
+https://t26.cdn2020.com/video/m3u8/2023/11/23/882416b8/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/12/1702305290-fb8f8f665aa1178.png",WMOG-011.小水水.小水水性爱游记
+https://t26.cdn2020.com/video/m3u8/2023/12/10/9f8ddbf5/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/12/1703344317-7583abe1fc27c11.png",WMOG-012.SARA.亚冠赛后绝顶中出
+https://t26.cdn2020.com/video/m3u8/2023/12/22/3dfa4a70/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/12/1703760962-49fc6ba5e61029e.png",WMOG-013.小水水.被玩坏的圣诞礼物
+https://t26.cdn2020.com/video/m3u8/2023/12/27/94bb7653/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/01/1705718557-e4089e8f6a46583.png",WMOG-014.北野爱.色情女教师放荡的家访
+https://t26.cdn2020.com/video/m3u8/2024/01/19/23e007a9/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/02/1707055516-a29ef83ea94439b.png",WMOG-015.小水水.黑丝销售的诱惑
+https://t26.cdn2020.com/video/m3u8/2024/02/04/ac995cd6/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/02/1708086905-6f763b9581f6fe2.png",WMOG-016.小水水.喷水淫娃
+https://t26.cdn2020.com/video/m3u8/2024/02/16/b6b4c0fe/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/02/1708702432-e6df77724a06e24.png",WMOG-017.小水水.SM调教大奶母狗
+https://t26.cdn2020.com/video/m3u8/2024/02/23/94818a35/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/03/1709951835-1ce1cf6e200fb63.jpg",WMOG-018.小水水.巨乳按摩师
+https://t26.cdn2020.com/video/m3u8/2024/03/08/e0300d12/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2024/03/1712276161-048967fd4f9a5c0.png",WMOG-019.小水水.E奶女销售的全色交易
+https://t27.cdn2020.com/video/m3u8/2024/03/30/247eab91/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://img.lllcdn.autos/2024/05/WMOG-021.jpg",WMOG-021.小敏儿.甜蜜少女找房记
+https://v2024.sysybf.com/20241123/E2uz1WiJ/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",WM-25031.嘉琪.少妇的饥渴欲望老公不在家贪恋小叔子的肉棒
+https://t27.cdn2020.com/video/m3u8/2023/02/01/a8aa3cd1/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1675322868-be8071e4cd9b481.jpg",WM-25032.嘉琪.极品身材瑜伽老师被黑屌迷奸
+https://t27.cdn2020.com/video/m3u8/2023/02/01/f1132dbc/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674124463-b5c05c761fb9d7f.jpg",WM-25033.欣欣.医生的诱奸
+https://t27.cdn2020.com/video/m3u8/2023/02/01/9523f00b/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674920009-e78fd357a93eb1a.jpg",WM-25036.百合.校园淫女
+https://t27.cdn2020.com/video/m3u8/2023/02/01/ff70131c/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",WM-25039.薇薇.迷奸清纯邻家小妹
+https://t27.cdn2020.com/video/m3u8/2023/02/01/096b2023/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/02/1676384333-62c07a24c8f0afa.jpg",WM-25041.瑶瑶.面试迷奸 
+https://t27.cdn2020.com/video/m3u8/2023/02/08/46977454/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",维秘传媒.小泽珍珍.实习生岗位保卫站
+https://t27.cdn2020.com/video/m3u8/2023/02/01/5c0ed0c6/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020RF3564SRT21.jpg",维秘传媒.优米酱.原味萝莉
+https://t27.cdn2020.com/video/m3u8/2023/01/31/bf3059d9/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R630919bE24004.jpg",维秘传媒.晚晚酱.淫荡猫咪终极调教
+https://t27.cdn2020.com/video/m3u8/2023/01/31/8d908cde/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R55Yfd13R2Z9.jpg",维秘传媒.NANA.淫荡修女之修女对肉棒的渴望
+https://t27.cdn2020.com/video/m3u8/2023/01/31/fb9949d7/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R52220ac4c23428.jpg",维秘传媒.cola.嫩萝莉毕业炮
+https://t27.cdn2020.com/video/m3u8/2023/01/31/de3c09bd/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R4531aLD23230.jpg",维秘传媒.熙雅妹妹.世界杯的肉体盛宴
+https://t27.cdn2020.com/video/m3u8/2023/01/31/b815f59d/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R3403f29292GB.jpg",维秘传媒.小桃.代孕妈妈的播种流程
+https://t27.cdn2020.com/video/m3u8/2023/01/31/1c9e924f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R30310L1d29214.jpg",维秘传媒.酥酥.勾引修理工.白浆直流
+https://t27.cdn2020.com/video/m3u8/2023/01/31/5a9fc10c/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R22K649eR5025.jpg",丸丸兔.强上旗袍人妻.嫂子的诱惑
+https://t27.cdn2020.com/video/m3u8/2023/01/31/9dece226/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R1541a1934245V.jpg",维秘传媒.冉冉学姐.极品夜店女王的侍奉
+https://t27.cdn2020.com/video/m3u8/2023/01/31/fb1aa778/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2302/D-02020R10Kb24ad23394.jpg",维秘传媒.香菜公主.黑丝小骚货独特按摩
+https://t27.cdn2020.com/video/m3u8/2023/01/31/aa8e5031/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674827221-acc3e83cc04cdb6.jpg",维秘传媒.菲欧娜.奴性的调教
+https://t27.cdn2020.com/video/m3u8/2023/01/26/bddb00b4/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/220318/2_031Q035195550.jpg",QQCM-001.前田由美.初遇邻居妹妹.桃花运来了挡都挡不住
 https://t26.cdn2020.com/video/m3u8/2022/03/16/1cc603cb/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/03/1648037246-e48a9057258c73a.jpg",QQCM-002.淑仪.考研色诱辅导员
@@ -1594,35 +1952,107 @@ https://t27.cdn2020.com/video/m3u8/2022/08/11/caf6fec7/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/08/1660399033-76a8579125fd800.jpg",QQCM-021.叶子红.爱上实习生
 https://t27.cdn2020.com/video/m3u8/2022/08/14/8a97481d/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1664781404-3d66fdf16ab218c.jpg",QQOG-001.粉色情人.刺绣碎花吊带可爱小花瓣
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
+https://surrit.com/1c3c6dc0-9362-4c22-b1a2-93689bbeae6f/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1665504638-da434e59e5b3fca.png",QQOG-002.粉色情人.油光白丝极品萝莉
+https://surrit.com/820c7cbe-81b8-4500-bb54-23a7a97ddc91/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1665504759-785312435d10a5a.png",QQOG-003.粉色情人.浴室镜子前极致性爱
+https://surrit.com/a7a93995-c312-4ece-bcc5-f05cd23398ea/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1665831559-0f35e5ffa58bf42.jpg",QQOG-004.小敏儿.把妹妹套路上床干
+https://surrit.com/6752cee1-0096-4c9d-89e9-a7a82ea36e9b/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1665831676-b8cb9beaed82622.jpg",QQOG-005.小敏儿.尤物学姐对我的酒后诱惑
+https://surrit.com/df4ac049-4aa5-4c39-b73d-9176530181fa/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1666866391-5043ea9053aa70d.jpg",QQOG-006.粉色情人.青春学妹纹身反差婊
+https://surrit.com/5d60c50c-b369-4d1b-96ff-9af0c133992b/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1666866348-9b594f91718e18c.jpg",QQOG-007.粉色情人.性感诱惑小野猫
+https://surrit.com/028f61cc-1c90-419f-b318-c9460fe81fd7/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/10/1667223784-b8ef4dbc3e5e78d.jpg",QQOG-008.粉色情人.御姐尤物沦为主人玩物
+https://surrit.com/cb1df65b-b788-494f-974a-7b41ad9582ef/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2211/2-2211030P1120-L.jpg",QQOG-009.小敏儿.约炮COS麻衣的学生妹
+https://surrit.com/db84c0ee-1706-4acd-b17e-564e1be45c5f/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1667314889-7df6aa519f062d5.jpg",QQOG-010.小敏儿.学妹生日的肉体庆生
+https://surrit.com/9cb1d61f-df0f-48b3-b6b4-de7b3bc6b241/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1668175886-d180947932facd2.jpg",QQOG-011.粉色情人.御姐尤物沦为主人玩物
+https://v202510.ddcdnbf.com/20251101/OvmjLdIC/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1668262904-7f6a806e54e6eeb.png",QQOG-012.粉色情人.健身后的次元性爱运动
+https://surrit.com/2fc9c29e-b083-4e43-a3f3-4029a04e1f2e/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1668262990-6abebaec49c6c6d.png",QQOG-013.粉色情人.口塞玫瑰体验上下塞满的性爱
+https://surrit.com/853a8636-2588-4d8e-988b-7f9a80206336/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1668829288-5ed32cfcea6f7ba.jpg",QQOG-014.粉色情人.阳光花园草地的性爱沐浴
+https://surrit.com/5cadd2c0-45c2-4004-81dc-7943e0c9077a/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1668829329-79905bcfde03f6c.jpg",QQOG-015.粉色情人.与萝莉共享温泉性爱之旅
+https://surrit.com/7de2e6d3-4010-4608-962b-f9d9d6e80b46/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1669031267-58f311df5206903.png",QQOG-016.亿米.人妻上了我的车
+https://surrit.com/e5365b62-2083-4220-ab83-d84551922c05/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1669522610-02d5dbac7e6d972.jpg",QQOG-017.小敏儿.弥豆子遭潜规则
+https://surrit.com/42ae03c9-46a3-48cc-9fd8-3cf08bde56c0/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1669522722-53fc1bcd5c39f40.jpg",QQOG-018.小敏儿.梦境女仆专属性爱
+https://surrit.com/dda02aa8-58fc-4852-a740-3b507b09e347/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/11/1669769099-ddc1695ae90f918.jpg",QQOG-019.西门庆.家教上门帮我射精
+https://surrit.com/a47ceda2-e853-43a4-a691-5771d7544280/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1670073793-ab947a78631fb77.jpg",QQOG-020.西门庆.校花与大肉棒
+https://surrit.com/aaca46c3-1ac3-4173-84b5-5072d1894f79/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1670516052-6d7682cd6bd1fa7.jpg",QQOG-022.小敏儿.初音未来的陪玩性服务
+https://surrit.com/1e64b09f-960c-47f3-911b-6dbe416508b1/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1670838361-f23803fa3b1081d.jpg",QQOG-023.冉冉学姐.观赛后的性玩物
+https://surrit.com/9a5fd932-1494-43fa-adb4-4b799878b1e1/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1671107487-38536723bea389f.jpg",QQOG-024.冉冉学姐.老板的长腿风骚秘书
+https://surrit.com/91106a68-762c-4653-bbab-aeb4eef4b298/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1671369049-5fccaf6cb1311f0.jpg",QQOG-025.安妮卡.沉浸体验泰国风情
+https://surrit.com/9849b42b-af8e-4324-a032-ab06f9dd3b03/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1671711670-1092985980f9a93.jpg",QQOG-026.冉冉学姐.大二学妹勾引家教老师
+https://surrit.com/d274b47a-b6a9-49ee-88b3-ac49a0daa867/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1671936030-61629825d1e5f99.jpg",QQOG-027.冉冉学姐.圣诞爆款尤物初体验
+https://surrit.com/91bd93ac-0eaf-4113-8879-c755b229795d/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/12/1672486577-b1eb1d311b5bf7e.jpg",QQOG-028.冉冉学姐.撸管必看极品尤物情趣诱惑
+https://surrit.com/9b84a6af-334d-4fab-9a71-13b9dbbb4f68/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1673014538-5471d056929ae4f.jpg",QQOG-029.小敏儿.下药迷奸大学暗恋的女同學
+https://surrit.com/ed3c604e-02cb-4530-b53a-713b4cdaaba7/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1673014635-1587d2ee9ee91f9.jpg",QQOG-030.特污兔.嫩穴妹妹的内射中出
+https://surrit.com/586c8a97-61d2-4c19-9e6b-b8a35298e51b/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1673607883-1d49db60bd120fb.jpg",QQOG-031.小敏儿.潜规则公司女网红
+https://surrit.com/2d8ad9cb-c805-4a15-ac8d-1c1e5bfe2b6d/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1673608230-c2349719a460533.jpg",QQOG-032.cola酱.撸管必须体验白虎女仆
+https://surrit.com/d2a068ff-3ce9-4ecb-9453-ac473d068e85/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674047587-fc821f1168bc43a.jpg",QQOG-033.冉冉学姐.清純系反差母狗
+https://surrit.com/d7bff7a1-becf-43cd-8f5e-8cd388e8db08/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674130744-b4f3685a6a85c78.png",QQOG-034.冉冉学姐.大二学姐被灌醉猥亵
+https://surrit.com/bd3f3a37-557b-4762-b96c-bd6dd96f14ce/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674375871-055ef77efaa76b8.png",QQOG-035.冉冉学姐.淘宝黑丝腿模
+https://surrit.com/693c2cba-8096-4226-b070-dc221e5421d2/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/01/1674695392-450d03e2e016e11.jpg",QQOG-036.冉冉学姐.04年极品白丝嫩足
+https://surrit.com/15a2be2a-0d8a-4d24-8656-a2e450986b51/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/02/1676035958-34eb4657b0e24bb.jpg",QQOG-037.91兔兔.弟弟强上淫荡姐姐
+https://surrit.com/ee23386d-4358-42b1-8c18-b33f7af9e0db/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/02/1677149269-537602b2201c746.jpg",QQOG-038.小敏儿.醉酒后的女上司
+https://surrit.com/2ec7bab1-51e4-4cad-bf64-3941a6d810e1/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/02/1677216026-065cdba36d6075c.jpg",QQOG-039.Nina.滴滴司机的约炮实录
+https://surrit.com/f7ce882b-f404-419b-9a7c-77260f3171e2/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/02/1677576203-1c7d0005e526988.jpg",QQOG-040.cola酱.无耻中出白浆学生妹
+https://surrit.com/9f96e5e7-47e3-4412-aefa-19ea0f046832/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1677757352-8a7177be34d8b61.jpg",QQOG-041.小敏儿.萝莉同桌跟我在床上补习
+https://surrit.com/71882943-b244-49d9-b893-64d8cd5ac0e3/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1678248430-e97ed75102461f0.jpg",QQOG-042.小敏儿.反差学妹床上的另一面
+https://surrit.com/241920f2-e53d-4502-ac89-dfcbdda05e4b/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1678493715-9cdb0453c8f3f10.jpg",QQOG-043.特污兔.姐姐特殊瑜伽教学
+https://surrit.com/4c44c177-b1d6-4de8-ba52-82e4e4708908/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1678842656-698d053c0cb7952.jpg",QQOG-044.cola酱.诱惑甜蜜女友
+https://surrit.com/72e8ebbb-fd8d-4501-9800-b8a3113bdc19/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1679048490-cc087d31af7fc3e.jpg",QQOG-045.冉冉学姐.蹂躏03年校花
+https://surrit.com/fa9e551d-fd7c-4ea5-846c-d4eb787f44d4/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1679048597-58ef492619cec6a.jpg",QQOG-046.特污兔.骚逼寂寞自慰.被舍友窗台爆操
+https://surrit.com/3736b401-2e3d-449f-9f35-949871c9e907/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1679553421-0f970e75ba84e5a.png",QQOG-047.小敏儿.把小母狗的小穴灌满精液
+https://surrit.com/4671aac5-3076-4824-9241-e06bfbdca426/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1679784410-3b90ae0daa5bc84.png",QQOG-048.cola酱.护士为阳痿病人强制射精
+https://surrit.com/803a1c27-1dbd-4e5e-877a-21267c2cd085/1280x720/video.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/03/1680139755-d26d2931d78d411.png",QQOG-049.小猫咪.干爹的肉便器
+https://t27.cdn2020.com/video/m3u8/2023/03/31/7a882ba4/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/04/1681307636-a09c333e5d8e6b5.jpg",QQOG-050.樱桃.老师的体罚
+https://surrit.com/57d25c92-4982-44a6-b4f6-32560e411f61/1280x720/video.m3u8
 
 ##精东影业
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2211/D-1112204001c8efd22V12.jpg",JDKR02.美樱.抗日奇侠.NO2.喜欢约炮的女子大学生美樱
 https://t27.cdn2020.com/video/m3u8/2022/11/10/3c65fe59/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##兔子先生/映秀传媒
 #EXTINF:-1 group-title="国产" tvg-logo="https://picture.avking.xyz/20230821/1ba590bf-1583-4467-8c17-04715b75510e.jpg",TZZ-014.沙耶香.全裸相亲实验室
@@ -1641,90 +2071,113 @@ https://t27.cdn2020.com/video/m3u8/2022/07/07/7a0b53a5/index.m3u8
 https://t26.cdn2020.com/video/m3u8/2023/07/28/343c726a/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2406/D-06150R1395549B29A6.jpg",TZ-099.浅尾美羽.春之夜与她一夜情久难忘
 https://t27.cdn2020.com/video/m3u8/2023/03/23/0266a92f/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
+#EXTINF:-1 group-title="国产" tvg-logo="https://cloud95.xunse.pics/2025/12/20/6b112fbc503bb5ef90e548fb08c954fa.jpg",TZ-199.樱花妹性爱实录EP44.4P醉酒大奶少妇
+https://t30.cdn2020.com/video/m3u8/2025/06/11/d7d97597/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://cloud95.xunse.pics/2025/12/20/71e3f49f460099887f2be770f5ff8a8d.jpg",TZ-198.香月怜.樱花妹性爱实录EP43.温泉女将的无限制发射服务
+https://t30.cdn2020.com/video/m3u8/2025/06/04/3289259e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2505/D-05310I2591931c922141.jpg",TZ-197.樱花妹性爱实录EP42.蒙眼炮机疯狂抽插
+https://t30.cdn2020.com/video/m3u8/2025/05/29/d6513d6e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2505/D-0503092QWb0292220c.jpg",TZ-196.樱花妹性爱实录EP41.酒后疯狂沙发激情
+https://t30.cdn2020.com/video/m3u8/2025/05/01/f4676b3d/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2504/D-041FH136e52f2a2AZ.jpg",TZ-195.樱花妹性爱实录EP40.饥渴少女无套性爱
+https://t30.cdn2020.com/video/m3u8/2025/04/16/3ea919c4/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2504/D-04100P11426c1bb2EL.jpg",TZ-194.铃木美樱.樱花妹性爱实录EP39.第一人称沉浸式性爱
+https://t30.cdn2020.com/video/m3u8/2025/04/09/45e2b590/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2504/D-04030FZ10f4caa250Y.jpg",TZ-193.樱花妹性爱实录EP38.顶级肥臀浴室性爱
+https://t30.cdn2020.com/video/m3u8/2025/04/02/3b1864e9/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2503/D-032F64P5L2a4f21250.jpg",TZ-192.樱花妹性爱实录EP37.大奶炮友炮机体验
+https://t30.cdn2020.com/video/m3u8/2025/03/26/9d7e50cd/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2503/D-03210FS203d23H2113.jpg",TZ-191.天音美纱.樱花妹性爱实录EP36.爸爸的女仆好女儿
+https://t30.cdn2020.com/video/m3u8/2025/03/20/6b1feff0/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2503/D-03200H544fG30b23533.jpg",TZ-190.九条兰.樱花妹性爱实录EP35.巨乳肥臀激情性爱
+https://t30.cdn2020.com/video/m3u8/2025/03/12/c691c44f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2503/D-030FG439243Lb29563.jpg",TZ-189.长谷川けいか.樱花妹性爱实录EP34.巨乳肥臀精油按摩
+https://t30.cdn2020.com/video/m3u8/2025/03/05/4ed7a9bc/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2503/D-03050JI6ad33d421915.jpg",TZ-188.上原桃.樱花妹性爱实录EP33.爆操肉感巨乳妹
+https://t30.cdn2020.com/video/m3u8/2025/02/27/7dbd4695/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2502/D-02210Q50Ma57bc291c.jpg",TZ-187.樱花妹性爱实录EP32.酒店幽会中出爆操
+https://t30.cdn2020.com/video/m3u8/2025/02/19/8658be08/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2502/D-02160T13cdbc42225M.jpg",TZ-186.樱花妹性爱实录EP31.床上小淫娃
+https://t30.cdn2020.com/video/m3u8/2025/02/14/71151918/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2502/D-0209204534f4R602W43.jpg",TZ-185.南瑠奈.樱花妹性爱实录EP30.搭讪站街妹妹
+https://t30.cdn2020.com/video/m3u8/2025/02/07/51c79967/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2502/D-0201064644fa61cb24911.jpg",TZ-184.芹泽由纪.樱花妹性爱实录EP29.特殊按摩服务
+https://t30.cdn2020.com/video/m3u8/2025/01/31/bb696671/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2502/D-0201064H238b46f21553.jpg",TZ-183.樱花妹性爱实录EP28.巨乳美艳少妇
+https://t30.cdn2020.com/video/m3u8/2025/01/23/3889d24b/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2501/D-0121062055ebF0423391.jpg",TZ-182.竹内莉莉.樱花妹性爱实录EP27.雪白巨乳嫩妹
+https://t30.cdn2020.com/video/m3u8/2025/01/20/556cdf5f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2501/D-0110063454aa07dR9547.jpg",TZ-181.樱花妹性爱实录EP26.酒店幽会湿穴少女
+https://t27.cdn2020.com/video/m3u8/2025/01/08/676b8390/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2412/D-122FF22Zf5ca924O2.jpg",TZ-180.樱花妹性爱实录EP25.内射性感少妇
+https://t27.cdn2020.com/video/m3u8/2024/12/26/1d31cc8d/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2412/D-12220SZU060132QD.jpg",TZ-179.樱花妹性爱实录EP24.水着少女白虎美穴
+https://t27.cdn2020.com/video/m3u8/2024/12/20/c13d3d51/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2411/D-112PG912ebc2462A36.jpg",TZ-178.樱花妹性爱实录EP23下.4P车轮大战
+https://t27.cdn2020.com/video/m3u8/2024/11/27/ebe24eaa/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2411/D-112F54018edI9d2cV.jpg",TZ-178.樱花妹性爱实录EP23上.4P激情性爱
+https://t27.cdn2020.com/video/m3u8/2024/11/21/8c29adfa/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2411/D-11150R637df430c25M7.jpg",TZ-177.樱花妹性爱实录EP22.4P乱交内射
+https://t27.cdn2020.com/video/m3u8/2024/11/14/a58b6a7e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2411/D-110Z910526cd4dd2ZX.jpg",TZ-176.樱花妹性爱实录EP21.地铁偶遇短裙JK
+https://t27.cdn2020.com/video/m3u8/2024/11/07/8957b643/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2411/D-11010622245J25d21433.jpg",TZ-175.樱花妹性爱实录EP20.内射精致樱花妹
+https://t27.cdn2020.com/video/m3u8/2024/10/31/22fa7d38/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2410/D-102FK14540494e24461.jpg",TZ-174.樱花妹性爱实录EP19.内射蒙面巨乳
+https://t27.cdn2020.com/video/m3u8/2024/10/23/c540be37/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2410/D-101ZJ91G17abf24649.jpg",TZ-173.樱花妹性爱实录EP18.内射清纯少女
+https://t27.cdn2020.com/video/m3u8/2024/10/16/00382ab6/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-172.樱花妹性爱实录EP17.三P内射
+https://t27.cdn2020.com/video/m3u8/2024/10/09/18231401/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2410/D-10050UA20fcdc021K5.jpg",TZ-171.樱花妹性爱实录EP16.陪酒女拍摄初体验
+https://t27.cdn2020.com/video/m3u8/2024/10/03/eef65635/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2409/D-092FH331bU930295C.jpg",TZ-170.樱花妹性爱实录EP15.日本辣妹带回家
+https://t27.cdn2020.com/video/m3u8/2024/09/26/fcec18b6/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2409/D-09200I21IDP224511.jpg",TZ-169.樱花妹性爱实录EP14.3P内射白虎嫩妹
+https://t27.cdn2020.com/video/m3u8/2024/09/19/dc568cbd/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2409/D-0914064409b0d4G231M.jpg",TZ-168.樱花妹性爱实录EP13.秘密性爱约会
+https://t27.cdn2020.com/video/m3u8/2024/09/13/b0d76e69/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2408/D-0QPH144c3BS2bY.jpg",TZ-167.樱花妹性爱实录EP12.短发辣妹无套内射
+https://t27.cdn2020.com/video/m3u8/2024/08/15/ea307a2e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-166.樱花妹性爱实录EP11
+https://t27.cdn2020.com/video/m3u8/2024/08/08/773078da/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2408/D-0P40PKV4916f26133.jpg",TZ-165.樱花妹性爱实录EP10.酒店约会
+https://t27.cdn2020.com/video/m3u8/2024/08/01/4993fa27/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2407/D-0I00U636b954dR5059.jpg",TZ-164.樱花妹性爱实录EP9.纯情少女3P
+https://t27.cdn2020.com/video/m3u8/2024/07/26/dd08ad41/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2407/D-0HFU1222L4cd21550.jpg",TZ-163.樱花妹性爱实录EP8.JK少女双飞记
+https://t27.cdn2020.com/video/m3u8/2024/07/19/e2dbfd4f/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2407/D-0HFR443A7cc924235.jpg",TZ-162.NAMI.樱花妹性爱实录EP7.女仆4P大作战
+https://t27.cdn2020.com/video/m3u8/2024/07/11/1ae2f6c7/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2407/D-0F60Q025Kff312XT.jpg",TZ-161.KOYUKI.樱花妹性爱实录EP6.4P岛国大骚女
+https://t27.cdn2020.com/video/m3u8/2024/07/04/b6861746/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-160.AIKO.樱花妹性爱实录EP5.孕妇按摩3P中出
+https://t27.cdn2020.com/video/m3u8/2024/06/29/16ffc0f1/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-159
+https://t27.cdn2020.com/video/m3u8/2024/06/21/cb3bd01e/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-158
+https://t27.cdn2020.com/video/m3u8/2024/06/14/727a0855/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-157.佐佐木野.樱花妹性爱实录EP4.风俗女上门面试
+https://t27.cdn2020.com/video/m3u8/2024/06/07/fb0ffb57/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-156.水野遥香.樱花妹性爱实录EP3.金发辣妹激情性爱
+https://t27.cdn2020.com/video/m3u8/2024/05/30/86203981/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-155
+https://t27.cdn2020.com/video/m3u8/2024/05/23/523be4ad/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-154
+https://t27.cdn2020.com/video/m3u8/2024/05/09/d1bb291a/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-153
+https://t27.cdn2020.com/video/m3u8/2024/05/03/52589b83/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-152.竹下麻衣.樱花妹性爱实录EP2.深夜搭讪少女
+https://t27.cdn2020.com/video/m3u8/2024/04/27/80f0e52c/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-151
+https://t27.cdn2020.com/video/m3u8/2024/04/17/5bc0345b/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="",TZ-150
+https://t27.cdn2020.com/video/m3u8/2024/04/12/39f39551/index.m3u8
+#EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2404/D-040F9250bc7c3122924.jpg",TZ-149.黑田奈奈.樱花妹性爱实录EP1.处男童贞毕业
+https://t27.cdn2020.com/video/m3u8/2024/04/06/7d0f60bb/index.m3u8
 
 #EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2023/04/1682424783-6e00e92a978f2c6.png",YSCM-103.白川麻衣.女儿的诱惑
 https://u89ey1.cdnedge.live/file/avple-asserts/hls/644d0920cbc2873753d0d27a/playlist.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##星空传媒
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##蜜桃影像/爱神传媒
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##TWAV
 #EXTINF:-1 group-title="国产" tvg-logo="https://pic.tuhuas.com/tupian/kuaile/uploads/2024/12/20241217181110-6761bebeb8486.jpg",TWAV-D001 AV圆梦计画：《华根初上》 苡若
@@ -1749,11 +2202,6 @@ https://i3qss.cdnedge.live/file/avple-images/hls/631309a48069654c55edcb4b/playli
 https://surrit.com/6753d4b0-9adc-45e4-98b9-a4bb4b2ea001/1280x720/video.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://cdn.furuke.com/img/sub-project-c/22/3c/3c5a4f4d653a44af9512e7e6ded43ec962b1352f.jpg",TWAV-S01 ❮绳缚地狱❯： 成人游戏 小婕
 https://surrit.com/e20eb275-5a61-4ec7-8657-255856f4cf5b/1280x720/video.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
 
 ##皇家华人
 #EXTINF:-1 group-title="国产" tvg-logo="https://jav.sb/upload/vod/20211107/up6kcslmpoz34hpd0rl4ir7x5srnsz.jpg",RAS-108 鲍鱼游戏 吸舔碰糖 夜夜
@@ -1762,14 +2210,6 @@ https://surrit.com/bb9fb6f8-77b5-43a5-837d-59a4ee929832/1280x720/video.m3u8
 https://surrit.com/f14a4c91-58e3-4a47-b0c3-c2699ce918d0/1280x720/video.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2405/D-050FG512U2dd129310.jpg",RAS-045 美女健身 日籍教练大肉棒疯狂抽插骚逼 黎星若
 https://q2cyl71.cdnedge.live/file/avple-asserts/hls/66377bf37cf77b295a8d768e/playlist.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##麻豆传媒/Pussy Hunted/Model US/爱妃传媒/麻麻传媒/PsychopornTW/FLIXKO/猫爪影像/HOT PEPPER/Redsten/绝对领域/乌托邦/内涵AV/渡边传媒/肉肉传媒/蝌蚪传媒/涩会传媒/狂点映像/放浪传媒/冠希传媒/叮叮映画/桃花源/AV帝王/千禧传媒/巨鹿娱乐/长治传媒/红感影像/疯拍传媒/豚豚创媒/维纳斯/麻豆探花
 #EXTINF:-1 group-title="国产" tvg-logo="https://mdgw-tw.s3.ap-east-1.amazonaws.com/video_covers/GVipNLRmPOszejtbdhbZUAwkyaQSDYAWBzE5dThe_compressed.jpg",MDL-0010-1 鲍鱼游戏2 EP1 黑人26公分巨屌，疯狂抽插！孟若羽 唐雨菲 苏樱花
@@ -1784,32 +2224,6 @@ https://surrit.com/1ea9b9d2-b25b-4b6a-ae8b-365818b29ecf/1280x720/video.m3u8
 https://surrit.com/82f66712-7aaa-466d-80f3-9f37e982ea86/1280x720/video.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/210713/2_0G30Z005Q14.jpg",MD0133.黎星若.运动女孩初登场.色色的纸牌调教游戏
 https://surrit.com/ff765c0f-0953-4c11-82ad-3b202cb61cbb/1280x720/video.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##天美传媒
 #EXTINF:-1 group-title="国产" tvg-logo="https://i0.wp.com/madouqu.com/wp-content/uploads/2022/09/1663068687-2c3f27bc891da34.png",TMW080.徐婕.兔女郎中秋派对.摄影会淫荡开射
@@ -1830,200 +2244,17 @@ https://t27.cdn2020.com/video/m3u8/2021/01/25/11b13ccb/index.m3u8
 https://t27.cdn2020.com/video/m3u8/2021/02/12/2b6d50df/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/210610/2_0610101121bJ.jpg",TM0061.徐婕.春节返乡之旧情复燃
 https://t27.cdn2020.com/video/m3u8/2021/02/12/434df162/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##起点传媒/性视界
 #EXTINF:-1 group-title="国产" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/c9/c95eedb7613743f5b70ea18163e5a90f682ca798.jpg",XSJ017 奇淫三国之貂蝉美人计 STACY
 https://t27.cdn2020.com/video/m3u8/2022/10/23/b49c6e3d/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
 
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2211/D-1123110243558fbb29530.jpg",QDYP006 约啪妹妹陪你加班 STACY
 https://t27.cdn2020.com/video/m3u8/2022/11/17/2162e2b0/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##乐播传媒
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##大象传媒
 #EXTINF:-1 group-title="国产" tvg-logo="https://av6k.com/uploads/allimg/2403/D-030F51044G7dd42N53.jpg",AV053 办公室淫乱秘密 老板的试验 米欧 STACY
 https://t26.cdn2020.com/video/m3u8/2024/03/04/5417cc55/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##SA国际传媒
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##香蕉视频
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##糖心Vlog
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##杏吧
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##萝莉社
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##其他(草莓视频、91茄子、YOYO、哔哩传媒、西瓜影视)
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##抖阴
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##葫芦影业
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-
-##思春社
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 ##放克娱乐
 #EXTINF:-1 group-title="国产" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/97/97128411f20144469ce651eaef729d076891a7d9.jpg",IFH0114 Stacey 打野x台灣溫泉女子
@@ -2044,52 +2275,18 @@ https://hsm3.fhu3hh.com/20251020/ao9xTYGH/2000kb/hls/index.m3u8
 https://hsm3.fhu3hh.com/20251021/hPixZWOF/2000kb/hls/index.m3u8
 #EXTINF:-1 group-title="国产" tvg-logo="https://cdn.furuke.com/img/sub-project-c/25/31/31ffe9ab9c7d42739f4f0faa593a5d4a6891a611.jpg",IFH0149 愛麗絲 打野x台灣溫泉女子
 https://hsm3.fhu3hh.com/20251021/N1TQSAeX/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
-#EXTINF:-1 group-title="国产" tvg-logo="",
-
 
 【中字无码】
 #EXTINF:-1 group-title="中字无码" tvg-logo="https://www.heyzo.com/contents/3000/1703/images/player_thumbnail.jpg",HEYZO-1703 りんにイッパイぶちまけて！～3本連続でズボズボされちゃった～ - 天音りん
 https://surrit.com/6e2fa8a5-486f-46a3-a7bb-25bf07455371/1280x720/video.m3u8
 #EXTINF:-1 group-title="中字无码" tvg-logo="https://www.1pondo.tv/assets/sample/091618_744/str.jpg",091618_744 ノーブラの美ジョガーをナンパ天音りん
 https://surrit.com/d1b10d07-6ee8-422f-a2e3-3355d802320a/1280x720/video.m3u8
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字无码" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
 
 【无码影片】
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.h4610.com/moviepages/ori1506/images/movie.jpg",H4610-ori1506 鹿嶋 唯子
 https://v.imgstream2.com/h/tofytpzlal/tofytpzlal.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.h4610.com/moviepages/ori1508/images/movie.jpg",H4610-ori1508 鹿嶋 唯子
 https://v.imgstream2.com/e/fyhhxwbnsu/fyhhxwbnsu.m3u8
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
 
 ##Caribbeancom
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/030919-874/images/l_l.jpg",030919-874 美人出張トレーナーの本当の気持ち ～レオタードのお股にコミットしすぎていつも濡れ濡れ～ 天音りん
@@ -2100,16 +2297,16 @@ https://surrit.com/ce4a9234-8795-4009-abdd-d1f492a24b42/1280x720/video.m3u8
 https://surrit.com/4236a718-9482-4844-a6e3-3c47f1da5679/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/111017-535/images/l_l.jpg",111017-535 僕の彼女が天音りんだったら ～中途半端なエッチじゃ物足りないの～ 天音りん
 https://surrit.com/98ea6b18-a02e-4645-8f4c-77c667bfcc8a/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/022111-625/images/l_l.jpg",022111-625 若妻のあやまち 常盤エレナ
+https://surrit.com/2cb5c481-f0c0-4542-b6cd-05eef98df3ff/1280x720/video.m3u8
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/082510-463/images/l_l.jpg",082510-463 巨乳で痴女で絶品ボディの女たち Vol.5 黒澤あみ 夏川未来 常盤エレナ
+https://surrit.com/71622837-cd84-407c-8b92-b9149975cf6f/1280x720/video.m3u8
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/041817-415/images/l_l.jpg",041817-415 オフィスでパワハラ中出しセックス 前田由美
+https://surrit.com/8d9601e0-72ba-4d84-bfe1-4cd0b5f0747e/1280x720/video.m3u8
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/101114-709/images/l_l.jpg",101114-709 お祭りのあとは心も身体もさみしくて 前田由美
+https://surrit.com/e34ca7cc-22b1-4763-8530-64bd2db53fb9/1280x720/video.m3u8
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://www.caribbeancom.com/moviepages/092614-699/images/l_l.jpg",092614-699 前田由美の家で撮影しちゃおう 前田由美
+https://surrit.com/5448d494-466f-4eb2-824f-c7c094b2085c/1280x720/video.m3u8
 
 ##HEYZO
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.heyzo.com/contents/3000/1670/images/player_thumbnail.jpg",HEYZO-1670 りんがご褒美に何でもしてあげる！～え、裸エプロン！？～ - 天音りん
@@ -2130,8 +2327,8 @@ https://surrit.com/16c529c4-bb21-46a1-aa02-4d73ae89362d/1280x720/video.m3u8
 ##一本道
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://www.1pondo.tv/assets/sample/072818_720/str.jpg",072818_720 パンツを脱いでもメガネは外しません！〜美人OL〜 天音りん
 https://surrit.com/0c554d83-b69e-448b-a443-f4c7b8c5e279/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://iqqtv.net/preview/80/b/5FP5N9HSQ78-800.jpg",051518_687 即ハメさせてもらいます！ 前田由美
+https://surrit.com/da631e15-f202-4ee6-bbb8-091579d55000/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="",
 
 #EXTINF:-1 group-title="无码影片" tvg-logo="",
@@ -2158,88 +2355,12 @@ https://surrit.com/ae2630c7-754a-4208-bab0-0629f4892a17/720p/video.m3u8
 https://surrit.com/7a7ba148-31c0-4e39-a381-27087476d331/1280x720/video.m3u8
 #EXTINF:-1 group-title="无码影片" tvg-logo="https://javgg.net/wp-content/uploads/2022/04/1649783455.24.jpg",FC2-PPV-2737469
 https://surrit.com/bbb6dd50-fe67-43ba-8f33-34526a7fa6fe/1280x720/video.m3u8
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##Pacopacomama
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##10Musume
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
 
 ##TOKYO HOT
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##金8天国
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##Mesubuta
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##XXX-AV
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-
-##Gachinco
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
-#EXTINF:-1 group-title="无码影片" tvg-logo="",
-
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://my.cdn.tokyo-hot.com/media/5921/list_image/n1008_1280x720/820x462_default.jpg",N1008 マジ惚れ女優羞恥カン 井上遥香
+https://surrit.com/ba052df1-0b37-4baf-acda-fa61442cf760/1280x720/video.m3u8
+#EXTINF:-1 group-title="无码影片" tvg-logo="https://my.cdn.tokyo-hot.com/media/5880/list_image/n0996_1280x720/820x462_default.jpg",N0996 東熱に遥香見参！ 井上遥香
+https://surrit.com/40ae74b2-5577-4beb-bc20-d3ae447e1894/1280x720/video.m3u8
 
 【中字有码】
 #EXTINF:-1 group-title="中字有码" tvg-logo="https://pics.dmm.co.jp/digital/video/hmn00520/hmn00520pl.jpg",HMN-520 昔、貧乳だとバカにしてきた同級生が入院してきたので、退院までの5日間生ハメさせても寸止め騎乗位でイキ我慢強●して中出しさせてあげないチ○ポいじめ痴女ナース 月野かすみ
@@ -2372,84 +2493,6 @@ https://surrit.com/366e5cb7-def5-4cda-967f-b63e72b728f3/1280x720/video.m3u8
 https://surrit.com/dbf3002d-82a6-4c6c-be21-f55b6761b1e5/1280x720/video.m3u8
 #EXTINF:-1 group-title="中字有码" tvg-logo="https://pics.dmm.co.jp/digital/video/ipx00484/ipx00484pl.jpg",IPX-484 彼女の妹のチート級美脚パンチラ誘惑にまんまと釣られたボク 楓カレン
 https://surrit.com/038d958b-77df-4515-8e07-43dba54c0747/1280x720/video.m3u8
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="中字有码" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-
-【素人】
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="素人" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
 
 【无码破解】
 #EXTINF:-1 group-title="无码破解" tvg-logo="https://pics.dmm.co.jp/digital/video/mimk00130/mimk00130pl.jpg",MIMK-130 ラブトラ！-Love Triangle-ボクを奪い合う逆3Pハーレム 原作・diletta 、イラスト・あくせま 累計4万部超えの超人気作実写化！！ 乙アリス 月野かすみ
@@ -2644,68 +2687,40 @@ https://surrit.com/990a8e71-3414-41a7-a3ff-195d50ada758/1280x720/video.m3u8
 https://surrit.com/37128a9b-1181-465a-b3a9-f3e8b470b2ef/720p/video.m3u8
 #EXTINF:-1 group-title="无码破解" tvg-logo="https://pics.dmm.co.jp/digital/video/ktra00442/ktra00442pl.jpg",KTRA-442 緊縛家族 愛娘は中出し専用の調教済み性処理人形 希咲那奈
 https://surrit.com/1a312bcd-21f1-4486-a4d9-5a91f761949f/720p/video.m3u8
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="无码破解" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
 
 【日本有码】
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00181/1fns00181pl.jpg",FNS-181 同棲生活最後の日 セックスの相性抜群の元カノと最後にもう一度だけセックスしたらやっぱり相性良すぎてちょっとだけ仲直りできた…けど。 与田りん
+
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00142/1fns00142pl.jpg",FNS-142 どー考えても全くサイズが合っていない極少ビキニでおっぱい誘惑する海の家の逆ナンチ●ポ好きバイト 与田りん
+https://surrit.com/80898882-d917-4bb8-9a89-d70ed6696c05/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00133/1fns00133pl.jpg",FNS-133 しょっちゅう喘ぎ声がする事故物件の住人は…ゴミ部屋オナニー狂のワガママ喪女ニート 与田りん
+https://surrit.com/f39478f7-575d-4b90-984c-a2ead86498d7/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/1fns00131/1fns00131pl.jpg",FNS-131 あなた、ごめんなさい… 仮免許の巨乳新妻は旦那に内緒でデカチン教官と不倫堕ちする 与田りん
+https://surrit.com/d970dca9-eab0-4ab9-aa04-77ad12a8cab7/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fns00080/1fns00080pl.jpg",FNS-080 汗臭い匂いが大好きな陸上部マネージャーは蒸し暑い部室で男子の体を隅々まで舐めまわす 与田りん
+https://surrit.com/b4ff8b8d-1ecd-49da-9393-d3e6a442597c/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fns00060/1fns00060pl.jpg",FNS-060 飲んでムラムラ…親友の目の前で親友のカレチ●ポを誘惑するWデートキャンプNTR 与田りん
+https://surrit.com/4b4fdeee-da81-40fb-abbc-e56792698275/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/mono/movie/adult/1fns042/1fns042pl.jpg",FNS-042 こんな過激ランジェリーで仕事の合間にSNS動画をアップしたら…続け様に男が押し寄せマ●コが休まる暇のない裏垢コンビニバイト 与田りん
+https://surrit.com/82b76d25-9c44-46d3-a65c-89920fae35e2/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fns00027/1fns00027pl.jpg",FNS-027 ミニスカズリ上がるほどのデカ尻で無自覚誘惑してしまうドジっこOLのむっちむちオフィスアクメ 与田りん
+https://surrit.com/feedcce5-f1a7-4191-9178-e11bf94cf4f2/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fns00006/1fns00006pl.jpg",FNS-006 2人きりのプライベート丸出しハメ撮り映像！台本一切無しの朝までホテル籠り4SEX 与田りん
+https://surrit.com/3e0334be-7478-4e5b-bba0-94ffbca8fa25/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00962/1fsdss00962pl.jpg",FSDSS-962 チョー映えるムッチリ巨乳ボディをぴったり着衣でハメ倒す潮吹き4本番 与田りん
+https://surrit.com/8f3c76fc-3e3b-4d58-9241-c51924c771be/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00937/1fsdss00937pl.jpg",FSDSS-937 突然のゲリラ豪雨で…透けパイをこってり弄られてしまう全身びしょ濡れ女●●生 与田りん
+https://surrit.com/9fbe55af-90dc-4f49-bb35-c46b7877fccc/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00927/1fsdss00927pl.jpg",FSDSS-927 あどけない顔面を真っ白に汚すすっごい連続顔射 与田りん
+https://surrit.com/7f39ba48-6223-4d03-b20a-8edadfb4d5ec/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00904/1fsdss00904pl.jpg",FSDSS-904 潮×コス×潮 びっしゃびしゃ連射性交 与田りん
+https://surrit.com/01794f4a-ad08-4a5f-b43d-1f904e6e611d/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00884/1fsdss00884pl.jpg",FSDSS-884 3度頼まれると100％断れないH90cmぷりっ尻メイド 与田りん
+https://surrit.com/d6f55176-e7e6-4ac1-9edc-f17e8ec40b7b/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00851/1fsdss00851pl.jpg",FSDSS-851 いっぱいイッちゃう！初めての膣イキ性感開発3本番！ 与田りん
+https://surrit.com/49a4a2d0-5da1-42a0-92b3-1398081aadfc/720p/video.m3u8
+#EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/1fsdss00846/1fsdss00846pl.jpg",FSDSS-846 新人 動物大好きオトコはもっと好き 人気FカップトリマーAVデビュー 与田りん
+https://surrit.com/05779086-5b98-4f0d-b9eb-de28693aec27/720p/video.m3u8
 #EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/ymdd00348/ymdd00348pl.jpg",YMDD-348 ヤリマンワゴンが行く！！ハプニング ア ゴーゴー！！斎藤あみりとリズの珍道中 Z世代女優のカリスマと原宿ナマ姦ドライブ！スレンダー美女の超絶テクでHYPER精搾取！
 https://surrit.com/2fb7da22-cbc6-4b25-9eac-290e1ab0a46f/1280x720/video.m3u8
 #EXTINF:-1 group-title="日本有码" tvg-logo="https://awsimgsrc.dmm.co.jp/pics_dig/digital/video/5642neob00033/5642neob00033pl.jpg",NEOB-033 無双アナル 変態マニア達の集団穴姦 蘭々
@@ -4186,54 +4201,6 @@ https://surrit.com/aab7b52d-3049-443f-8610-d35ec599d4dc/842x480/video.m3u8
 https://surrit.com/c1c41f74-8fbc-4254-bf7e-04524f2e0398/842x480/video.m3u8
 #EXTINF:-1 group-title="日本有码" tvg-logo="https://pics.dmm.co.jp/digital/video/h_1133ubug00002/h_1133ubug00002pl.jpg",UBUG-002 「胸がちっちゃいのが恥ずかしいので、20年間処女でした。でも、今日卒業します…」紗霧(二十歳) 依泉紗霧
 https://surrit.com/fee104a4-1f53-4276-a720-0883a8cb400e/720p/video.m3u8
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="日本有码" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
 
 【欧美】
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/c73/057/5e8/7e0/428/4a3/ca7/1f7/555/916/7b/poster/poster_01.jpg",[PublicAgent] Belle Ohara – Creampie for UK Student
@@ -4249,7 +4216,7 @@ https://s3-hls1-cdn40.streamupcdn.com/hls/HTMraWU8WgX6Kd2Xe5S8cSNpXNX1RW/index_1
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/888/121/024/472/495/4a9/d28/938/520/6f2/ca/poster/poster_01.jpg",[PublicAgent] Diana Lawrence – French Breast is Best
 https://video.twimg.com/amplify_video/2012559769744093184/pl/WNM-AHVLjWIkTQfI.m3u8?tag=21
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/8eb/f77/b52/a8d/475/494/b10/958/f7e/9f5/1a/poster/poster_01.jpg",[PublicAgent] Gina Snow – The Swedish Hitchhiker
-https://r-10-2-7-04-2554.u000009.eu.awmcdn.net/78000/78243/78243_720p.mp4?URISigningPackage=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJBV01DRE4iLCJleHAiOjE3NzAwOTk1NTgsImNkbmlzdHQiOjEsImNkbmlldHMiOjE4MDAsImNkbml1YyI6InJlZ2V4Oi4qXC83ODAwMFwvNzgyNDNcLzc4MjQzXzcyMHAubXA0In0
+
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/c2c/52b/4ed/a80/48d/28b/aab/528/dbd/2be/6a/poster/poster_01.jpg",[PublicAgent] Mia Moone – Shy waitress needs more than tips
 https://video.twimg.com/amplify_video/1991522643888013312/pl/DiANqpmqIfSgmci7.m3u8?tag=21
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/828/c66/3e8/c69/469/788/d05/349/97d/321/de/poster/poster_01.jpg",[PublicAgent] Carla Boom – I Need More Money Baby
@@ -4296,20 +4263,12 @@ https://pawjin.b-cdn.net/Smith.mp4
 https://luagup.b-cdn.net/Mackenzie.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/fakehostel-athenea-rose-now-clean-my-pussy-yourdailypornvideos.jpg",[FakeHostel] Athenea Rose – Now Clean My Pussy
 https://wucdir.b-cdn.net/Athenea.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/fakehostel-alexa-throat-indy-lix-scent-of-some-panties-yourdailypornvideos.jpg",[FakeHostel] Alexa Throat, Indy Lix – Scent of some Panties
+https://vz-e3ccea59-2f8.b-cdn.net/de9d0760-a137-4eb4-a703-8361ba0b54b8/480p/video.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="",
 
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/fakehuboriginals-kathy-deep-sharing-bed-with-real-mom-yourdailypornvideos.jpg",[FakehubOriginals] Kathy Deep – Sharing Bed with Real Mom
 https://guttih.b-cdn.net/Kathy.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
 
 ##AdultTime
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PureTaboo-Jewel-Diamant-I-Know-You-From-Somewhere-yourdailypornvideos.jpg",[PureTaboo] Jewel Diamant – I Know You From Somewhere
@@ -4334,18 +4293,18 @@ https://vuubea.b-cdn.net/nicole.mp4
 https://codvia.b-cdn.net/ella.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/DevilsFilm-Katrina-Colt-Lilith-Grace-Husband-Wife-Strap-Spitroasts-02-yourdailypornvideos.jpg",[DevilsFilm] Katrina Colt, Lilith Grace – Husband-Wife Strap Spitroasts #02
 https://viajaa.b-cdn.net/katrina.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/MommysGirl-Little-Puck-Hailey-Rose-She-Sounds-Just-Like-You%E2%80%A6.jpg",[MommysGirl] Little Puck, Hailey Rose – She Sounds Just Like You…
+https://vz-fea94f14-5e8.b-cdn.net/c3f73e92-dc0f-4adf-ba36-f509043ef0b5/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/assholefever-angelika-grays-shaking-her-behind-yourdailypornvideos.jpg",[AssholeFever] Angelika Grays – Shaking Her Behind
+https://vz-491d88ce-5d3.b-cdn.net/31fd75fb-9dcd-45b8-9203-1797c379094d/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/CaughtFapping-Kimmy-Kimm-Mid-Massage-Tug-Sesh.jpg",[CaughtFapping] Kimmy Kimm – Mid-Massage Tug Sesh
+https://vz-c0c9c455-168.b-cdn.net/51cec25a-5527-4424-8025-115b56d4050c/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/allgirlmassage-charlotte-sins-addison-vodka-scarlett-bloom-two-birds-with-one-hot-stone-yourdailypornvideos.jpg",[AllGirlMassage] Charlotte Sins, Scarlett Bloom, Addison Vodka – Two Birds With One Hot-Stone
+https://vz-f5b0ee95-b9e.b-cdn.net/d0e4e1bb-6a6d-41b8-99a8-cb540075a9a7/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/puretaboo-myra-moans-pixie-smalls-tech-savvy-yourdailypornvideos.jpg",[PureTaboo] Myra Moans, Pixie Smalls – Tech Savvy
+https://vz-deb8e9dd-ed8.b-cdn.net/89444559-93b9-45e6-9bc2-548be19be12f/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/mommysboy-aderes-quin-my-stepson-can-never-know-yourdailypornvideos.jpg",[MommysBoy] Aderes Quin – My Stepson Can Never Know!
+https://vz-d4153a60-547.b-cdn.net/7a56cf8e-4771-47b6-b48c-4a7df79d4cfa/720p/video.m3u8
 
 ##Adult Mobile
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/SweetSinner-Lily-LaBeau-Dishonest-Passion-yourdailypornvideos.jpg",[SweetSinner] Lily LaBeau – Dishonest Passion
@@ -4356,52 +4315,10 @@ https://zumkiu.b-cdn.net/lucy.mp4
 https://kecnim.b-cdn.net/River.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/SweetHeartVideo-Octavia-Red-Rissa-May-She-Is-All-Natural-yourdailypornvideos.jpg",[SweetHeartVideo] Octavia Red, Rissa May – She Is All Natural
 https://gighop.b-cdn.net/octavia.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Brazzers
-#EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/a62/cdb/1f2/a59/47d/88d/f4f/786/51c/984/23/poster/poster_01.jpg",[Brazzers] Best Of ZZ – Abigail Mac
-https://bovmia.b-cdn.net/Abigail.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Tina-Snows-Stretching-The-Boundaries-yourdailypornvideos.jpg",[Brazzers] Tina Snows – Stretching The Boundaries
-https://hernia.b-cdn.net/Tina.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Destiny-Mira-Cyber-Doll-Wingwoman-Secures-A-Threesome-yourdailypornvideos.jpg",[Brazzers] Destiny Mira, Cyber Doll – Wingwoman Secures A Threesome
-https://reuvui.b-cdn.net/Destiny.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Molly-K-Moillys-House-Of-Pleasure-yourdailypornvideos.jpg",[Brazzers] Molly K – Moilly’s House Of Pleasure
-https://livtoc.b-cdn.net/Molly.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Nuria-Millan-1-Date-2-Cocks-yourdailypornvideos.jpg",[Brazzers] Nuria Millan – 1 Date, 2 Cocks
-https://lofgow.b-cdn.net/Nuria.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Kira-Noir-Abigaiil-Morris-Connie-Perignon-Fast-Food-Fight-Fuck-yourdailypornvideos.jpg",[Brazzers] Kira Noir, Abigaiil Morris, Connie Perignon – Fast Food Fight & Fuck
-https://pubvol.b-cdn.net/Abigaiil.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Jazz-The-Stallion-Stay-Away-From-My-Gooner-Roomie-yourdailypornvideos.jpg",[Brazzers] Jazz The Stallion – Stay Away From My Gooner Roomie
-https://dolrom.b-cdn.net/Jazz.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Sara-Diamante-Getting-Nasty-In-The-Sauna-yourdailypornvideos.jpg",[Brazzers] Sara Diamante – Getting Nasty In The Sauna
-https://tascik.b-cdn.net/Sara.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Angela-White-Angela-Vs.-Victor-yourdailypornvideos.jpg",[Brazzers] Angela White – Angela Vs. Victor
-https://video.twimg.com/amplify_video/2016938693462773760/pl/K3QsGk9dzQuLHDoP.m3u8?tag=21
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sweetheartvideo-freya-parker-river-lynn-naughty-lesbian-stepsister-yourdailypornvideos.jpg",[SweetHeartVideo] Freya Parker, River Lynn – Naughty Lesbian Stepsister
+https://vz-435e0b51-e83.b-cdn.net/03a7ed6b-f9c6-43b4-882f-3944b5bfd915/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/SweetSinner-Melissa-Stratton-Stepmother-Seductions.jpg",[SweetSinner] Melissa Stratton – Stepmother Seductions
+https://vz-42a1adcd-1f3.b-cdn.net/0949df46-a9dc-4a62-a6ab-368ade5148f5/480p/video.m3u8
 
 ##BangBros
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/528/5ec/135/156/48c/491/ceb/3d7/e4c/e97/86/poster/poster_01.jpg",[BangBros] Mira Luv – Stepsis Needs Help Stretching
@@ -4422,114 +4339,86 @@ https://gucboo.b-cdn.net/Alexa.mp4
 https://cartek.b-cdn.net/Eevee.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/BangBros-Luna-Blackx-If-I-Let-You-Fuck-My-Ass-yourdailypornvideos.jpg",[BangBros] Luna Blackx – If I Let You Fuck My Ass
 https://milejcub.b-cdn.net/Luna.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/BangBros-LaPaisita-Oficial-Anal-on-the-Pedestrian-Bridge-yourdailypornvideos.jpg",[BangBros] LaPaisita Oficial – Anal on the Pedestrian Bridge
+https://kojkos.b-cdn.net/LaPaisita.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/bigtitsroundasses-carmen-caliente-likes-it-hot-yourdailypornvideos.jpg",[BangBros] Carmen Caliente Likes it Hot
+https://vz-9682ff2f-374.b-cdn.net/c677de86-fb80-425d-b8f1-8f6b5fb94135/480p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/bangbros-kwini-kim-two-monsters-inside-kwini-yourdailypornvideos.jpg",[BangBros] Kwini Kim – Two Monsters Inside Kwini
+https://vz-41204a2b-29c.b-cdn.net/eefd9099-6445-4004-9083-0d173821eb0b/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/BangBros-Valentine-Vixens-Perfect-Booty.jpg",[BangBros] Valentine Vixen’s Perfect Booty
+https://jafgen.b-cdn.net/Valentine.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##Bang
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/BangRealTeens-Kate-Legend-Pastors-Daughter-Kate-Legend-Sucks-And-Fucks-Outdoors.jpg",[Bang] Pastor’s Daughter Kate Legend Sucks And Fucks Outdoors
+https://vz-203ee11a-f47.b-cdn.net/bff3e48a-27f3-43be-81b5-3ce28921d499/720p/video.m3u8
 
 ##BellesaPlus
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/BellesaPlus-Isa-Bella-Gizelle-Blanco-The-Swingers-yourdailypornvideos.jpg",[BellesaPlus] Isa Bella, Gizelle Blanco – The Swingers
 https://pecygaki.b-cdn.net/Gizelle.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Babes
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Bang
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/BellesaPlus-Charlotte-Sins-Episode-173-Charlotte-Christian.jpg",[BellesaPlus] Charlotte Sins – Episode 173 – Charlotte & Christian
+https://vz-6ccc3e59-9c0.b-cdn.net/3b5428d4-9806-4c66-aa98-ba6bc18cd332/480p/video.m3u8
 
 ##Black Massive Cocks
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/blackmassivecocks-ruby-moon-housewarming-anal-yourdailypornvideos.jpg",[BlackMassiveCocks] Ruby Moon – Housewarming Anal
 https://linbag.b-cdn.net/Ruby.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
 
 ##Blowpass
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MommyBlowsBest-Adira-Allure-Thank-You-Cleaner-yourdailypornvideos.jpg",[MommyBlowsBest] Adira Allure – Thank You, Cleaner
 https://februb.b-cdn.net/adira.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Throated-Mandy-Spears-Mandys-Throating-Game-Plans-yourdailypornvideos.jpg",[Throated] Mandy Spears – Mandy’s Throating Game Plans
+https://cijamity.b-cdn.net/mandy.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##Brazzers
+#EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eaSaaTbWx/a62/cdb/1f2/a59/47d/88d/f4f/786/51c/984/23/poster/poster_01.jpg",[Brazzers] Best Of ZZ – Abigail Mac
+https://bovmia.b-cdn.net/Abigail.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Tina-Snows-Stretching-The-Boundaries-yourdailypornvideos.jpg",[Brazzers] Tina Snows – Stretching The Boundaries
+https://hernia.b-cdn.net/Tina.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Destiny-Mira-Cyber-Doll-Wingwoman-Secures-A-Threesome-yourdailypornvideos.jpg",[Brazzers] Destiny Mira, Cyber Doll – Wingwoman Secures A Threesome
+https://reuvui.b-cdn.net/Destiny.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Molly-K-Moillys-House-Of-Pleasure-yourdailypornvideos.jpg",[Brazzers] Molly K – Moilly’s House Of Pleasure
+https://livtoc.b-cdn.net/Molly.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Nuria-Millan-1-Date-2-Cocks-yourdailypornvideos.jpg",[Brazzers] Nuria Millan – 1 Date, 2 Cocks
+https://lofgow.b-cdn.net/Nuria.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Kira-Noir-Abigaiil-Morris-Connie-Perignon-Fast-Food-Fight-Fuck-yourdailypornvideos.jpg",[Brazzers] Kira Noir, Abigaiil Morris, Connie Perignon – Fast Food Fight & Fuck
+https://pubvol.b-cdn.net/Abigaiil.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Jazz-The-Stallion-Stay-Away-From-My-Gooner-Roomie-yourdailypornvideos.jpg",[Brazzers] Jazz The Stallion – Stay Away From My Gooner Roomie
+https://dolrom.b-cdn.net/Jazz.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Sara-Diamante-Getting-Nasty-In-The-Sauna-yourdailypornvideos.jpg",[Brazzers] Sara Diamante – Getting Nasty In The Sauna
+https://tascik.b-cdn.net/Sara.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Angela-White-Angela-Vs.-Victor-yourdailypornvideos.jpg",[Brazzers] Angela White – Angela Vs. Victor
+https://video.twimg.com/amplify_video/2016938693462773760/pl/K3QsGk9dzQuLHDoP.m3u8?tag=21
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Romi-Rain-Beca-Barbie-Milf-Teaches-Him-The-Ways-Of-The-Trad-yourdailypornvideos.jpg",[Brazzers] Romi Rain, Beca Barbie – Milf Teaches Him The Ways Of The Trad
+https://sunwepp.b-cdn.net/Romi.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Peach-Lollypop-Flock-To-The-Cock-yourdailypornvideos.jpg",[Brazzers] Peach Lollypop – Flock To The Cock
+https://jihtih.b-cdn.net/Peach.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Brazzers-Luna-Star-Horny-Wife-Happy-Houseguest-yourdailypornvideos.jpg",[Brazzers] Luna Star – Horny Wife, Happy Houseguest
+https://tewkan.b-cdn.net/Luna.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/Brazzers-Natasha-Nice-Quit-Looking-At-My-Mom-yourdailypornvideos.jpg",[Brazzers] Natasha Nice – Quit Looking At My Mom!
+https://hupsad.b-cdn.net/Natasha.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/brazzersexxtra-yhivi-immoral-yhivi-yourdailypornvideos.jpg",[Brazzers] Immoral Yhivi
+https://fakwac.b-cdn.net/Yhivi.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##Deep Lush
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Anna-Claire-Clouds-Anal-With-Anna-Claire-yourdailypornvideos.jpg",[DeepLush] Anna Claire Clouds – Anal With Anna Claire
+https://cogwaz.b-cdn.net/Anna.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/deeplush-alexa-chains-treating-her-right-yourdailypornvideos.jpg",[DeepLush] Alexa Chains – Treating Her Right
+https://vz-d87ac099-5e8.b-cdn.net/54969432-709a-46b0-9463-4e18c2c37750/480p/video.m3u8
 
-
-##CzechAV
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##CherryPimps
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Dorcel
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##DesiBang
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/DesiBang-Indian-mature-BBW-gets-nailed-yourdailypornvideos.jpg",[DesiBang] Indian mature BBW gets nailed
+https://nafbej.b-cdn.net/5645.mp4
 
 ##DigitalPlayground
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/DigitalPlayground-Gal-Ritchie-Lie-With-Me-yourdailypornvideos.jpg",[DigitalPlayground] Gal Ritchie – Lie With Me
 https://noflas.b-cdn.net/Gal.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/DigitalPlayground-Gal-Ritchie-Lie-With-Me-Part-2-yourdailypornvideos.jpg",[DigitalPlayground] Gal Ritchie – Lie With Me – Part 2
 https://vopzie.b-cdn.net/Gal.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
 
 ##DirtyCinema
 #EXTINF:-1 group-title="欧美" tvg-logo="https://milfuckd.com/wp-content/uploads/2026/01/md-kiki-daire-768x432.jpg",[MILFuckd] Kiki Daire – Hotel owner fucks her sexy guest
 https://vivujuky.b-cdn.net/kiki.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mypovfam-eliza-eves-my-step-sister-wants-me-to-knock-her-up-yourdailypornvideos.jpg",[MyPOVFam] Eliza Eves – My step-sister wants me to knock her up!
+https://linbag.b-cdn.net/Eliza.mp4
 
 ##Dogfart Network
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/blacksonblondes-nickey-huntsman-joining-the-club-yourdailypornvideos.jpg",[BlacksOnBlondes] Nickey Huntsman – Joining The Club
@@ -4540,41 +4429,22 @@ https://fuchom.b-cdn.net/cassie.mp4
 https://gorzuv.b-cdn.net/nico.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/BlacksOnBlondes-Harlow-West-Is-Not-Your-Average-Tenant-yourdailypornvideos.jpg",[BlacksOnBlondes] Harlow West Is Not Your Average Tenant
 https://codvia.b-cdn.net/harlow.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/cuckoldsessions-angelina-moon-ready-for-a-load-yourdailypornvideos.jpg",[CuckoldSessions] Angelina Moon Is Ready For a Load
+https://vz-c71c6a05-245.b-cdn.net/976520e8-882c-42bc-a43c-d84047dd8efb/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/GloryHole-Sophia-Locke-Sexy-CEO-Devours-The-Cock-In-Front-Of-Her.jpg",[GloryHole] Sophia Locke – Sexy CEO Devours The Cock In Front Of Her
+https://vz-29f77c51-9eb.b-cdn.net/964ded48-6401-4b3b-aa5a-39b17e25866f/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-
-##DirtyCinema
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mypovfam-eliza-eves-my-step-sister-wants-me-to-knock-her-up-yourdailypornvideos.jpg",[MyPOVFam] Eliza Eves – My step-sister wants me to knock her up!
-https://linbag.b-cdn.net/Eliza.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Deep Lush
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Anna-Claire-Clouds-Anal-With-Anna-Claire-yourdailypornvideos.jpg",[DeepLush] Anna Claire Clouds – Anal With Anna Claire
-https://cogwaz.b-cdn.net/Anna.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##DesiBang
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/DesiBang-Indian-mature-BBW-gets-nailed-yourdailypornvideos.jpg",[DesiBang] Indian mature BBW gets nailed
-https://nafbej.b-cdn.net/5645.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##ElegantAngel
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/elegantangel-yazmin-royal-loving-the-squirt-yourdailypornvideos.jpg",[ElegantAngel] Yazmin Royal – Loving the Squirt
+https://wucdir.b-cdn.net/yazmin.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Leah-Gotti-Maddie-May-Slippery-Sapphics-yourdailypornvideos.jpg",[ElegantAngel] Leah Gotti, Maddie May – Slippery Sapphics
+https://virpaw.b-cdn.net/leah.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Kay-Kay-Pink-Pussy-Squirt-yourdailypornvideos.jpg",[ElegantAngel] Kay Kay – Pink Pussy Squirt
+https://cogwaz.b-cdn.net/Kay.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Anissa-Kate-Do-You-Find-Me-Attractive-yourdailypornvideos.jpg",[ElegantAngel] Anissa Kate – Do You Find Me Attractive?
+https://cohnuo.b-cdn.net/Anissa.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/elegantangel-elizabeth-skylar-sky-wonderland-valentines-day-hotwives-yourdailypornvideos.jpg",[ElegantAngel] Elizabeth Skylar, Sky Wonderland – Valentine’s Day Hotwives
+https://vz-e3ccea59-2f8.b-cdn.net/6e5c5300-d674-4836-bcf1-fe5d0b5a925d/480p/video.m3u8
 
 ##Evil Angel
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/EvilAngel-Rissa-May-Busty-Ass-Gaping-A2M-Teen-yourdailypornvideos.jpg",[EvilAngel] Rissa May Busty, Ass Gaping & A2M Teen
@@ -4589,38 +4459,18 @@ https://nafbej.b-cdn.net/jennifer.mp4
 https://hidlod.b-cdn.net/indica.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/EvilAngel-Anissa-Kate-Gaping-Titty-Fucking-MILF-yourdailypornvideos.jpg",[EvilAngel] Anissa Kate Gaping, Titty Fucking MILF
 https://zuokii.b-cdn.net/anissa.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/EvilAngel-Angie-Lynx-4-On-1-DP-Creampie-Orgy-yourdailypornvideos.jpg",[EvilAngel] Angie Lynx 4-On-1 DP & Creampie Orgy
+https://vidhob.b-cdn.net/angie.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/evilangel-julia-james-anal-a2m-rim-job-date-yourdailypornvideos.jpg",[EvilAngel] Julia James Anal, A2M & Rim Job Date
+https://vz-c4e4e733-37a.b-cdn.net/a9a3bb0c-9f4a-4f3a-b942-d910f04fb218/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/evilangel-ivy-ireland-ass-gaping-a2m-facial-yourdailypornvideos.jpg",[EvilAngel] Ivy Ireland Ass Gaping, A2M & Facial
+https://vz-203ee11a-f47.b-cdn.net/3e7ef875-801c-4c00-8bbf-502671c49254/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/evilangel-mandii-rose-anal-fuck-pussy-creampie-yourdailypornvideos.jpg",[EvilAngel] Mandii Rose Anal Fuck, Pussy Creampie
+https://vz-8257a2a2-0b6.b-cdn.net/dee32ac2-03dd-4ad1-af4f-a9c85094b757/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##ElegantAngel
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/elegantangel-yazmin-royal-loving-the-squirt-yourdailypornvideos.jpg",[ElegantAngel] Yazmin Royal – Loving the Squirt
-https://wucdir.b-cdn.net/yazmin.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Leah-Gotti-Maddie-May-Slippery-Sapphics-yourdailypornvideos.jpg",[ElegantAngel] Leah Gotti, Maddie May – Slippery Sapphics
-https://virpaw.b-cdn.net/leah.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Kay-Kay-Pink-Pussy-Squirt-yourdailypornvideos.jpg",[ElegantAngel] Kay Kay – Pink Pussy Squirt
-https://cogwaz.b-cdn.net/Kay.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ElegantAngel-Anissa-Kate-Do-You-Find-Me-Attractive-yourdailypornvideos.jpg",[ElegantAngel] Anissa Kate – Do You Find Me Attractive?
-https://cohnuo.b-cdn.net/Anissa.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##ErikaLust
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##FamilyTherapyXXX
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/FamilyTherapyXXX-Luna-Lovely-Silk-Shadows-Goth-Girls-Share.jpg",[FamilyTherapyXXX] Luna Lovely, Silk Shadows – Goth Girls Share
+https://zuldag.b-cdn.net/Luna.mp4
 
 ##FilthyKings
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/hotgirlsraw-sara-retali-finding-the-sexiest-in-spain-yourdailypornvideos.jpg",[HotGirlsRaw] Sara Retali – Finding The Sexiest In Spain
@@ -4629,78 +4479,36 @@ https://tittak.b-cdn.net/Sara.mp4
 https://teumii.b-cdn.net/juniper.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/FillUpMyMom-Bree-Brooks-Quality-Time-With-Stepmom-yourdailypornvideos.jpg",[FillUpMyMom] Bree Brooks – Quality Time With Stepmom
 https://cohnuo.b-cdn.net/Bree.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##FamilyTherapyXXX
-#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/FamilyTherapyXXX-Luna-Lovely-Silk-Shadows-Goth-Girls-Share.jpg",[FamilyTherapyXXX] Luna Lovely, Silk Shadows – Goth Girls Share
-https://zuldag.b-cdn.net/Luna.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##HussiePass
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##HookupHotshot
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/filthymassage-jennifer-white-two-legends-one-massage-table-yourdailypornvideos.jpg",[FilthyMassage] Jennifer White – Two Legends, One Massage Table
+https://vz-b94c51f0-2dd.b-cdn.net/acb3f935-931f-4d06-8990-902f4bae2f37/480p/video.m3u8
 
 ##Hegre
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Hegre-Malena-A-Extreme-Vibrations-yourdailypornvideos.jpg",[Hegre] Malena A Extreme Vibrations
 https://hidlod.b-cdn.net/malena.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##HussiePass
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/HussiePass-Lily-Jordan-Curvy-In-All-The-Right-Places-yourdailypornvideos.jpg",[HussiePass] Lily Jordan – Curvy In All The Right Places
+https://vz-23c5688a-3f0.b-cdn.net/5aceeec2-197b-4244-bb16-c094f5ea7fd4/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Jules Jordan
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/JulesJordan-Lily-Lou-Anal-Penetration-yourdailypornvideos.jpg",[JulesJordan] Lily Lou Anal Penetration
-https://vivujuky.b-cdn.net/Lily.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##JaysPOV
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/JaysPOV-Cock-Hungry-Big-Titty-Stepmom-Justine-Jakobs-Gets-Pounded-In-POV-yourdailypornvideos.jpg",[JaysPOV] Cock Hungry Big Titty Stepmom Justine Jakobs Gets Pounded In POV
-https://wupzez.b-cdn.net/justine.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##Inserted
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Inserted-Sadie-Schafer-Sadies-Playful-Pussy-Party-yourdailypornvideos.jpg",[Inserted] Sadie Schafer – Sadie’s Playful Pussy Party
+https://vz-23c5688a-3f0.b-cdn.net/f9166746-7371-4c9a-b467-ade6dab2f631/720p/video.m3u8
 
 ##JaxSlayher
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/JaxSlayherTV-Charlotte-Sins-Good-Little-Pervert-yourdailypornvideos.jpg",[JaxSlayherTV] Charlotte Sins – Good Little Pervert
 https://nehtinsz.b-cdn.net/charlotte.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/jaxslayhertv-courtney-tillia-one-fit-milf-yourdailypornvideos.jpg",[JaxSlayher] Courtney Tillia – One Fit MILF
+https://vz-3271fb4c-d05.b-cdn.net/664913a6-d410-4a25-8c53-2c654368f5bc/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##JaysPOV
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/JaysPOV-Cock-Hungry-Big-Titty-Stepmom-Justine-Jakobs-Gets-Pounded-In-POV-yourdailypornvideos.jpg",[JaysPOV] Cock Hungry Big Titty Stepmom Justine Jakobs Gets Pounded In POV
+https://wupzez.b-cdn.net/justine.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##Jules Jordan
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/JulesJordan-Lily-Lou-Anal-Penetration-yourdailypornvideos.jpg",[JulesJordan] Lily Lou Anal Penetration
+https://vivujuky.b-cdn.net/Lily.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/JulesJordan-Nia-Bleus-Latina-Curves-Take-Every-Inch-Of-Lexington-Steele-BBC.jpg",[JulesJordan] Nia Bleu’s Latina Curves Take Every Inch Of Lexington Steele BBC
+https://vz-8c6a5549-b7b.b-cdn.net/b42a3bae-1925-4998-86bd-0eab5d4083d0/480p/video.m3u8
 
 ##KINK
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/whippedass-mx-tomie-katrina-colt-and-introducing-yourdailypornvideos.jpg",[WhippedAss] Mx Tomie, Katrina Colt – And Introducing…
@@ -4709,38 +4517,30 @@ https://bipdag.b-cdn.net/katrina.mp4
 https://nehtinsz.b-cdn.net/tessa.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/EdgedAndBound-Katrina-Colt-Insatiable-yourdailypornvideos.jpg",[EdgedAndBound] Katrina Colt – Insatiable
 https://virpaw.b-cdn.net/katrina.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/SexAndSubmission-Ivy-Ireland-Anal-Revenge.jpg",[SexAndSubmission] Ivy Ireland – Anal Revenge
+https://vz-fea94f14-5e8.b-cdn.net/ca66339f-334a-42b6-8605-f64dcdabf933/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/devicebondage-reese-the-ram-bound-and-tamed-yourdailypornvideos.jpg",[HogTied] Reese The Ram – Bound and Tamed
+https://vz-29f77c51-9eb.b-cdn.net/d322c390-c934-441e-8d7d-4bda4f56cbf1/720p/video.m3u8
 
 ##LetsDoeIt
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/HornyHostel-Amalia-Davis-Wax-on-Wack-off-yourdailypornvideos.jpg",[HornyHostel] Amalia Davis – Wax on, Wack off
 https://linbag.b-cdn.net/Amalia.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/AGirlKnows-Yenifer-Chacon-Lapaisita-Alexis-Doll-Doubling-Up-On-The-Double-Agent.jpg",[AGirlKnows] Yenifer Chacon, Lapaisita, Alexis Doll – Doubling Up On The Double Agent
 https://paevoc.b-cdn.net/yenifer.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/herlimit-danielle-renae-stepmoms-anal-marathon-yourdailypornvideos-1.jpg",[HerLimit] Danielle Renae – Stepmom’s Anal Marathon
+https://vz-e3ccea59-2f8.b-cdn.net/d83847b7-6285-4d76-b904-713dd6b45825/480p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##LoveHerFilms
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##ManipulativeMedia
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mypervyfamily-ryan-keely-spoiled-stepson-solution-yourdailypornvideos.jpg",[MyPervyFamily] Ryan Keely – Spoiled Stepson Solution
+https://s1.strmupcdn.cc/hls/i4qpfdWiYQnyNRUKD9RijI0UNsayYyHD/index_1920x1080.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MyPervyFamily-Daisy-Fox-I-Changed-My-Mind%E2%80%A6-yourdailypornvideos.jpg",[MyPervyFamily] Daisy Fox – I Changed My Mind…
+https://soapap.b-cdn.net/Daisy.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MyPervyFamily-Jenna-Starr-Twisted-Sexual-Triangle-yourdailypornvideos.jpg",[MyPervyFamily] Jenna Starr – Twisted Sexual Triangle
+https://muakeu.b-cdn.net/Jenna.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/touchmywife-destiny-james-hunny-let-me-film-it-yourdailypornvideos.jpg",[TouchMyWife] Destiny James – Hunny, Let Me Film It…
+https://vz-b94c51f0-2dd.b-cdn.net/dbb163d7-a6d5-4dcc-b95a-8c479e14a7fc/480p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mypervyfamily-britt-blair-guiding-my-step-niece-gone-wrong-yourdailypornvideos.jpg",[MyPervyFamily] Britt Blair – Guiding My Step-Niece Gone Wrong
+https://vz-9682ff2f-374.b-cdn.net/d37f1c23-24e9-4205-bb02-72c88d60c968/480p/video.m3u8
 
 ##MetArt
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/straplez-amelia-riven-casey-nohrman-intimate-fashion-2-yourdailypornvideos.jpg",[StrapLez] Amelia Riven, Casey Nohrman – Intimate Fashion 2
@@ -4753,54 +4553,10 @@ https://jommut.b-cdn.net/Matty.mp4
 https://rosbib.b-cdn.net/jessie.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/StrapLez-Mia-De-Vil-Cherry-Blossom-Her-Other-Side-2-yourdailypornvideos.jpg",[StrapLez] Mia De Vil, Cherry Blossom – Her Other Side 2
 https://nogbun.b-cdn.net/mia.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##MomComesFirst
-#EXTINF:-1 group-title="欧美" tvg-logo="https://momcomesfirst.com/wp-content/uploads/2026/01/fridaynightmcfp.png",[MomComesFirst] Andie Anderson – Friday Night
-https://cekpah.b-cdn.net/Andie.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="" tvg-logo="",
-
-
-##MILFed
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##MomLover
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Taylor-Vixxen-Stepmom-Gets-Caught-Naked-S8-E8-yourdailypornvideos.jpg",[Mom Wants Creampie] Taylor Vixxen – Stepmom Gets Caught Naked – S8:E8
-https://vubvip.b-cdn.net/Taylor.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##ManipulativeMedia
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mypervyfamily-ryan-keely-spoiled-stepson-solution-yourdailypornvideos.jpg",[MyPervyFamily] Ryan Keely – Spoiled Stepson Solution
-https://s1.strmupcdn.cc/hls/i4qpfdWiYQnyNRUKD9RijI0UNsayYyHD/index_1920x1080.m3u8
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MyPervyFamily-Daisy-Fox-I-Changed-My-Mind%E2%80%A6-yourdailypornvideos.jpg",[MyPervyFamily] Daisy Fox – I Changed My Mind…
-https://soapap.b-cdn.net/Daisy.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MyPervyFamily-Jenna-Starr-Twisted-Sexual-Triangle-yourdailypornvideos.jpg",[MyPervyFamily] Jenna Starr – Twisted Sexual Triangle
-https://muakeu.b-cdn.net/Jenna.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sexart-bonnie-dolce-in-your-hands-yourdailypornvideos.jpg",[SexArt] Bonnie Dolce – In Your Hands
+https://vz-7f87a0b1-119.b-cdn.net/882e7b68-2272-45b9-ab74-32a7edfc1770/1080p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sexart-anna-bella-touch-more-yourdailypornvideos.jpg",[SexArt] Anna Bella – Touch More
+https://vz-81162068-7b1.b-cdn.net/7a1a8b6f-3aae-4cd5-9e5a-d35cd632b5e3/720p/video.m3u8
 
 ##MissaX 
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MissaX-Bambi-Blitz-Gigi-Dior-Life-After-Divorce-pt.-2-yourdailypornvideos.jpg",[MissaX] Bambi Blitz, Gigi Dior – Life After Divorce pt. 2
@@ -4813,28 +4569,21 @@ https://deokii.b-cdn.net/Hazel.mp4
 https://fiepip.b-cdn.net/Jill.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MissaX-Aria-Sloane-Marco-Polo-yourdailypornvideos.jpg",[MissaX] Aria Sloane – Marco Polo
 https://pirvuo.b-cdn.net/Aria.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/MissaX-Elizabeth-Skylar-Jessica-Ryan-The-Photoshoot-Incident-redux.jpg",[MissaX] Elizabeth Skylar, Jessica Ryan – The Photoshoot Incident (redux)
+https://lungaj.b-cdn.net/Elizabeth.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##MomComesFirst
+#EXTINF:-1 group-title="欧美" tvg-logo="https://momcomesfirst.com/wp-content/uploads/2026/01/fridaynightmcfp.png",[MomComesFirst] Andie Anderson – Friday Night
+https://cekpah.b-cdn.net/Andie.mp4
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+##MomLover
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Taylor-Vixxen-Stepmom-Gets-Caught-Naked-S8-E8-yourdailypornvideos.jpg",[Mom Wants Creampie] Taylor Vixxen – Stepmom Gets Caught Naked – S8:E8
+https://vubvip.b-cdn.net/Taylor.mp4
 
 ##Mofos
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/mofos-taylor-rae-she-likes-it-raw-yourdailypornvideos.jpg",[Mofos] Taylor Rae – She Likes It Raw
+https://vz-41204a2b-29c.b-cdn.net/93a04449-bb49-4eae-bf70-fce0ad7a3b58/720p/video.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
 
 ##Naughty America
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/NaughtyAmerica-Cute-Eva-Nyx-stops-by-looking-for-something-that-she-forgot-her-friends-dads-hard-cock-yourdailypornvideos.jpg",[NaughtyAmerica] Cute Eva Nyx stops by looking for something that she forgot, her friend’s dad’s hard cock
@@ -4853,18 +4602,18 @@ https://jommut.b-cdn.net/krdtgm.mp4
 https://vubvip.b-cdn.net/Anastasia.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/NaughtyAmerica-Sexy-Wife-Remy-Rune-Learns-When-Protection-Becomes-a-Negotiation-with-Her-Husbands-Boss-yourdailypornvideos.jpg",[NaughtyAmerica] Sexy Wife Remy Rune Learns When Protection Becomes a Negotiation with Her Husband’s Boss
 https://nogbun.b-cdn.net/Remy.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/NaughtyAmerica-Sexy-Milf-Ava-Devine-shows-son-n-law-all-about-an-Open-Family.jpg",[NaughtyAmerica] Sexy Milf Ava Devine shows son-n-law all about an Open Family
+https://vz-b94c51f0-2dd.b-cdn.net/4f6eb5fe-146a-4064-9d8d-aac916d2d3e7/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/NaughtyAmerica-Super-Hot-Gypsy-Rose-wants-to-have-her-friends-brother-pound-her-wet-tight-pussy-yourdailypornvideos.jpg",[NaughtyAmerica] Super Hot Gypsy Rose want’s to have her friend’s brother pound her wet tight pussy
+https://felwec.b-cdn.net/Gypsy.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/NaughtyAmerica-Two-Sexy-Friends-Richelle-Ryan-and-Veronica-Avluv-Have-Fun-With-One-Big-Cock-yourdailypornvideos.jpg",[NaughtyAmerica] Two Sexy Friend’s Richelle Ryan and Veronica Avluv Have Fun With One Big Cock
+https://maktem.b-cdn.net/Richelle.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/NaughtyAmerica-Luna-Legend-finally-takes-charge-and-stands-up-to-the-bully-that-her-boyfriend-wont-face.jpg",[NaughtyAmerica] Luna Legend finally takes charge and stands up to the bully that her boyfriend won’t face
+https://vz-29f77c51-9eb.b-cdn.net/dd6cb0a8-b6eb-437d-8161-b623805ac820/480p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/NaughtyAmerica-Sexy-Milfs-Bella-Bare-and-Taylor-Upton-give-sons-friend-a-high-intensity-workout.jpg",[NaughtyAmerica] Sexy Milf’s Bella Bare and Taylor Upton give son’s friend a high intensity workout
+https://vz-8c6a5549-b7b.b-cdn.net/a0e76cf9-317d-4b8c-a7cd-b785e32872ce/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/naughtyamerica-frenchy-surprises-her-husband-by-inviting-a-stranger-over-to-fuck-while-he-watches-yourdailypornvideos.jpg",[NaughtyAmerica] Frenchy surprises her husband by inviting a stranger over to fuck while he watches
+https://vz-8d021e48-97f.b-cdn.net/378ebcc7-f823-4953-b599-43de064d76c1/720p/video.m3u8
 
 ##NewSensations
 #EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/Cubbi-Thompson-MILFs-Do-It-Better-2.jpg",[NewSensations] Cubbi Thompson – MILFs Do It Better 2
@@ -4875,18 +4624,8 @@ https://fezhud.b-cdn.net/nicole.mp4
 https://fuchom.b-cdn.net/abi.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/NewSensations-Asteria-Jade-Tests-Her-Limits-Of-Submission-yourdailypornvideos.jpg",[NewSensations] Asteria Jade Tests Her Limits Of Submission
 https://hidlod.b-cdn.net/asteria.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/newsensations-lana-smalls-keeps-it-inside-at-the-office-yourdailypornvideos.jpg",[NewSensations] Lana Smalls Keeps It Inside At The Office
+https://vz-fea94f14-5e8.b-cdn.net/b4c016d4-ef12-4d04-a517-67c7f34c5ced/720p/video.m3u8
 
 ##Nubiles Porn
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ShesBreedingMaterial-Chloe-Temple-Breed-Me-And-Ill-Suck-Your-Dick-In-Front-Of-Your-Dad-S2-E8-yourdailypornvideos.jpg",[ShesBreedingMaterial] Chloe Temple – Breed Me And Ill Suck Your Dick In Front Of Your Dad – S2:E8
@@ -4899,24 +4638,24 @@ https://silzel.b-cdn.net/Jones.mp4
 https://dibwoc.b-cdn.net/chloe.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Dolly-Paige-How-To-Properly-Use-Stepdads-Tool-S2-E4-yourdailypornvideos.jpg",[MyFamilyPies] Dolly Paige – How To Properly Use Stepdads Tool – S2:E4
 https://nogbun.b-cdn.net/Dolly.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Chloe-Temple-Who-Touched-My-Stuff-S39-E10-yourdailypornvideos.jpg",[BrattySis]Chloe Temple – Who Touched My Stuff – S39:E10
+https://moikop.b-cdn.net/Chloe.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MilfCoach-Karina-King-Coachs-Pussy-Is-Keeping-Me-In-The-Game-S2-E7-yourdailypornvideos.jpg",[MilfCoach] Karina King – Coachs Pussy Is Keeping Me In The Game – S2:E7
+https://mejmei.b-cdn.net/Karina.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/Ali-Jones-February-2026-Flavor-Of-The-Month-Ali-Jones-S31-E4-yourdailypornvideos.jpg",[StepSiblingsCaught]Ali Jones – February 2026 Flavor Of The Month Ali Jones – S31:E4
+https://ewaftg.b-cdn.net/Ali.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/NubileFilms-Summer-Kline-February-2026-Fantasy-Of-The-Month-S7-E9-yourdailypornvideos.jpg",[NubileFilms] Summer Kline – February 2026 Fantasy Of The Month – S7:E9
+https://felwec.b-cdn.net/Summer.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/nubilefilms-evie-christian-an-old-spark-ignites-yourdailypornvideos.jpg",[NubileFilms] Evie Christian – An Old Spark Ignites – S49:E28
+https://vz-8c6a5549-b7b.b-cdn.net/32637348-429b-4745-9a66-72c5868e7c3e/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/brattymilf-bree-brooks-hurry-up-and-fuck-me-before-your-dad-gets-home-s13e3-yourdailypornvideos.jpg",[BrattyMILF] Bree Brooks – Hurry Up And Fuck Me Before Your Dad Gets Home – S13:E3
+https://vz-81162068-7b1.b-cdn.net/9b08aebd-eac1-4c7f-a7c4-56b8b7498e1e/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/momsteachsex-scarlette-moon-my-stepson-and-i-take-a-bath-together-s25e7-yourdailypornvideos.jpg",[MomsTeachSex] Scarlette Moon – My Stepson And I Take A Bath Together – S25:E7
+https://vz-81162068-7b1.b-cdn.net/7fa1c588-0519-4cc5-8508-3a93eec421c6/720p/video.m3u8
 
 ##Nookies
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/Nookies-Tifa-Quinn-Magic-Touch-for-a-Stressed-Dilf.jpg",[Nookies] Tifa Quinn – Magic Touch for a Stressed Dilf
+https://vz-38a50781-992.b-cdn.net/0ed6eec6-50bf-49a7-ad11-55716d618cb5/720p/video.m3u8
 
 ##Net Girl
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/netgirl-lilly-yourdailypornvideos.jpg",NetGirl – Lilly
@@ -4925,31 +4664,20 @@ https://tittak.b-cdn.net/Lilly.mp4
 https://nesuzeby.b-cdn.net/Gigi.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/NetGirl-Poppy-yourdailypornvideos.jpg",NetGirl – Poppy
 https://cohnuo.b-cdn.net/Poppy.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/castingcouch-hd-violet-omg-the-latest-cchd-yourdailypornvideos.jpg",CastingCouch-HD – Violet
+https://vz-d8467b3b-fe6.b-cdn.net/ff685bd4-0242-4057-82ca-ead74baf7ac0/720p/video.m3u8
 
 ##OnlyTarts
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OnlyTarts-Noi-Feja-Nikky-Dream-Stepmothers-Turn-yourdailypornvideos.jpg",[OnlyTarts] Noi Feja, Nikky Dream – Stepmother’s Turn
 https://fawtaj.b-cdn.net/Noi.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OnlyTarts-Ariana-Cortez-Prescription-Two-Dicks-At-Once-yourdailypornvideos.jpg",[OnlyTarts] Ariana Cortez – Prescription – Two Dicks At Once
+https://mejmei.b-cdn.net/Ariana.mp4
 
 ##OopsFamily
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OopsFamily-Ashlyn-Angel-Hardcore-Game-With-Stepbro-yourdailypornvideos.jpg",[OopsFamily] Ashlyn Angel – Hardcore Game With Stepbro
 https://fawtaj.b-cdn.net/Ashlyn.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OopsFamily-Krystal-Sparks-Stepsons-Huge-Secret-yourdailypornvideos.jpg",[OopsFamily] Krystal Sparks – Stepson’s Huge Secret
+https://cijamity.b-cdn.net/Krystal.mp4
 
 ##OnlyFans
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OnlyFans-Angela-White-Violet-Myers-NEW-Threesome-with-Lexington-Steele-yourdailypornvideos.jpg",[OnlyFans] Angela White, Violet Myers – NEW Threesome with Lexington Steele
@@ -4962,14 +4690,12 @@ https://dibwoc.b-cdn.net/Lucy.mp4
 https://vugkii.b-cdn.net/Cumatozz.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OnlyFans-Aaliyah-Yasin-Clea-Gaultier-Nuria-Millan-Hijabi-Best-Friends-Fuck-a-BBC-Outdoors-yourdailypornvideos.jpg",[OnlyFans] Aaliyah Yasin, Clea Gaultier, Nuria Millan – Hijabi Best Friends Fuck a BBC Outdoors
 https://vugkii.b-cdn.net/Aaliyah.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/OnlyFans-Sahara-Knite-Yasmina-Khan-Three-Desi-Bhabis-Gone-Wild-With-A-BBC-yourdailypornvideos.jpg",[OnlyFans] Sahara Knite, Yasmina Khan – Three Desi Bhabis Gone Wild With A BBC
+https://rosgug.b-cdn.net/Yasmina.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/OnlyFans-Yasmina-Khan-Sexy-Redhead-Breaks-Up-Threesome-With-Swinger-Couple.jpg",[OnlyFans] Yasmina Khan Sexy Redhead Breaks Up Threesome With Swinger Couple
+https://vz-38a50781-992.b-cdn.net/888c0a3a-00d9-4bca-be82-0c005f8cba19/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/onlyfans-mia-z-desi-girl-gets-fucked-and-creampie-on-first-date-yourdailypornvideos.jpg",[OnlyFans] Mia Z – Desi Girl Gets Fucked And Creampie On First Date
+https://jozcoe.b-cdn.net/MiaZ.mp4
 
 ##Private
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/private-with-two-dicks-inside-and-two-more-in-her-throat-sophie-weber-keeps-going-yourdailypornvideos.jpg",[Private] With two dicks inside and two more in her throat, Sophie Weber keeps going
@@ -4978,82 +4704,52 @@ https://fezhud.b-cdn.net/sophie.mp4
 https://virpaw.b-cdn.net/vixi.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Private-Angelique-Rose-Milan-Cheek-Do-you-want-to-try-anal-My-stepbrothers-an-expert-yourdailypornvideos.jpg",[Private] Angelique Rose, Milan Cheek – Do you want to try anal? My stepbrother’s an expert!
 https://wupzez.b-cdn.net/angelique.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Private-Calita-Fire-a-liberal-wife-yourdailypornvideos.jpg",[Private] Calita Fire, a liberal wife
+https://vz-23c5688a-3f0.b-cdn.net/e33e0a85-86fd-465d-9fa6-4a9f1ef6b0a5/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/private-hot-pearl-do-you-know-what-hot-pearl-does-when-she-wants-anal-sex-but-her-husband-isnt-there-yourdailypornvideos.jpg",[Private] Do you know what Hot Pearl does when she wants anal sex but her husband isn’t there?
+https://vz-f5b0ee95-b9e.b-cdn.net/6f02a216-a58e-458b-9049-79190fdfbcfe/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/private-lilly-blossom-inaugurates-her-stepbrother-in-a-trio-with-vanessa-alessia-yourdailypornvideos.jpg",[Private] Lilly Blossom inaugurates her stepbrother in a trio with Vanessa Alessia
+https://vz-4714ce30-4df.b-cdn.net/fd9f8faf-4e35-461a-aa96-4f7f4cd5051b/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##PornPlus
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#PornWorld
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/pornworld-hidden-fantasies-chapter-1-bi-curious-babe-sophie-weber-opens-up-to-seductive-podcast-host-jolee-love-yourdailypornvideos.jpg",[PornWorld] Hidden Fantasies Chapter 1 – Bi Curious Babe Sophie Weber Opens Up To Seductive Podcast Host Jolee Love
+https://bipdag.b-cdn.net/jolee.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Hidden-Fantasies-Chapter-2-Shy-Sophie-Weber-Lets-Loose-During-DP-Gangbang-With-Jolee-Love-yourdailypornvideos.jpg",[PornWorld] Hidden Fantasies Chapter 2 – Shy Sophie Weber Lets Loose During DP Gangbang With Jolee Love
+https://nehtinsz.b-cdn.net/jolee.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Kinky-Cosplay-Babes-Mion-Hazuki-And-Gatita-Veve-Enjoy-Steamy-Threesome-After-Strap-On-Sex-yourdailypornvideos.jpg",[PornWorld] Kinky Cosplay Babes Mion Hazuki And Gatita Veve Enjoy Steamy Threesome After Strap On Sex
+https://gorzuv.b-cdn.net/mion.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Sex-Crazed-Co-Workers-Kitana-Lure-And-Candee-Licious-Share-Cock-During-DP-Office-Orgy-yourdailypornvideos.jpg",[PornWorld] Sex Crazed Co-Workers Kitana Lure And Candee Licious Share Cock During DP Office Orgy
+https://wupzez.b-cdn.net/kitana.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/PornWorld-Insatiable-Model-Ivy-Ireland-Takes-Messy-Facials-After-Enjoying-DP-Threesome-On-Set-yourdailypornvideos.jpg",[PornWorld] Insatiable Model Ivy Ireland Takes Messy Facials After Enjoying DP Threesome On Set
+https://seosam.b-cdn.net/3453.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/pornworld-coco-rains-horny-handywoman-coco-rains-takes-a-balls-deep-bbc-pounding-on-the-job-yourdailypornvideos.jpg",[PornWorld] Horny Handywoman Coco Rains Takes A Balls Deep BBC Pounding On The Job
+https://vz-203ee11a-f47.b-cdn.net/cbb5f440-fcaa-4edd-8ffb-24dec4b6e77f/720p/video.m3u8
 
 ##PentHouseGold
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/penthousegold-ivy-ireland-turns-up-the-heat-yourdailypornvideos.jpg",[PenthouseGold] Ivy Ireland - Turns Up The Heat
 https://bipdag.b-cdn.net/ivy.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PenthouseGold-Stella-Lux-Drilled-By-Hubbys-Best-Bud-yourdailypornvideos.jpg",[PenthouseGold] Stella Lux Drilled By Hubby’s Best Bud
 https://gorzuv.b-cdn.net/stella.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##PuffyNetwork
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/PenthouseGold-Maddie-Wrens-Not-So-Routine-Checkup.jpg",[PenthouseGold] Maddie Wren’s Not-So-Routine Checkup
+https://vz-203ee11a-f47.b-cdn.net/c31bf944-54a1-4c01-a586-c247de4f72e5/720p/video.m3u8
 
 ##PropertySex
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PropertySex-Ameena-Green-Beca-Barbie-The-Best-Tenants-yourdailypornvideos.jpg",[PropertySex] Ameena Green, Beca Barbie – The Best Tenants
+https://fosakag.b-cdn.net/Ameena.mp4
 
 ##Pornfidelity
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/pornfidelity-amiee-cambridge-knocked-up-amiee-yourdailypornvideos.jpg",[PornFidelity] Amiee Cambridge – Knocked Up Amiee
 https://huuwat.b-cdn.net/Amiee.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
 
 ##RealityKings
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/RealityKings-Scarlett-Rosewood-Bros-College-Friend-yourdailypornvideos.jpg",[RealityKings] Scarlett Rosewood – Bro’s College Friend
 https://suehow.b-cdn.net/Scarlett.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Realitykings-Meagan-Moore-All-Mess-No-Mercy-yourdailypornvideos.jpg",[Realitykings] Meagan Moore – All Mess, No Mercy
 https://viktar.b-cdn.net/Meagan.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/rkprime-juniper-ren-cream-now-coffee-later-yourdailypornvideos.jpg",[RealityKings] Juniper Ren – Cream Now, Coffee Later
+https://vz-8f4b34e6-763.b-cdn.net/1022c533-695a-4f98-8b0f-b689288985be/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/rkprime-vera-jarw-cara-mella-luna-bunny-maya-rose-sooky-sin-lake-day-lay-yourdailypornvideos.jpg",[RealityKings] Cara Mella – Lake Day Lay
+https://vz-7f87a0b1-119.b-cdn.net/27dc3b55-f410-45ed-ac40-e1f709e2cfb5/720p/video.m3u8
 
 ##SexMex
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/SexMex-Mica-Spengler-The-Counts-MILF-Neighbor-yourdailypornvideos.jpg",[SexMex] Mica Spengler – The Count’s MILF Neighbor
@@ -5070,69 +4766,18 @@ https://vujtis.b-cdn.net/Lula.mp4
 https://nesuzeby.b-cdn.net/Emily.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/SexMex-Lina-Henao-Sara-Black-Stepmother-Chaperone-yourdailypornvideos.jpg",[SexMex] Lina Henao, Sara Black – Stepmother Chaperone
 https://cewfan.b-cdn.net/Sara.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Score Pass
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Sexcash
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/pornworld-hidden-fantasies-chapter-1-bi-curious-babe-sophie-weber-opens-up-to-seductive-podcast-host-jolee-love-yourdailypornvideos.jpg",[PornWorld] Hidden Fantasies Chapter 1 – Bi Curious Babe Sophie Weber Opens Up To Seductive Podcast Host Jolee Love
-https://bipdag.b-cdn.net/jolee.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Hidden-Fantasies-Chapter-2-Shy-Sophie-Weber-Lets-Loose-During-DP-Gangbang-With-Jolee-Love-yourdailypornvideos.jpg",[PornWorld] Hidden Fantasies Chapter 2 – Shy Sophie Weber Lets Loose During DP Gangbang With Jolee Love
-https://nehtinsz.b-cdn.net/jolee.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Kinky-Cosplay-Babes-Mion-Hazuki-And-Gatita-Veve-Enjoy-Steamy-Threesome-After-Strap-On-Sex-yourdailypornvideos.jpg",[PornWorld] Kinky Cosplay Babes Mion Hazuki And Gatita Veve Enjoy Steamy Threesome After Strap On Sex
-https://gorzuv.b-cdn.net/mion.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/PornWorld-Sex-Crazed-Co-Workers-Kitana-Lure-And-Candee-Licious-Share-Cock-During-DP-Office-Orgy-yourdailypornvideos.jpg",[PornWorld] Sex Crazed Co-Workers Kitana Lure And Candee Licious Share Cock During DP Office Orgy
-https://wupzez.b-cdn.net/kitana.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Swallowed
-#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/AnalOnly-Stella-Luxx-Stellas-Anal-Agenda-yourdailypornvideos.jpg",[AnalOnly] Stella Luxx – Stella’s Anal Agenda
-https://fuchom.b-cdn.net/stella.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-
-##Spizcash
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/SexMex-Paola-Rubiel-Pretty-Hot-Wife.jpg",[SexMex] Paola Rubiel – Pretty Hot Wife Watch porn video full length free
+https://moikop.b-cdn.net/Paola.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/SexMex-Bequii-Alvarado-My-Best-Friends-Sexy-Stepmom.jpg",[SexMex] Bequii Alvarado – My Best Friend’s Sexy Stepmom
+https://vz-c71c6a05-245.b-cdn.net/804cf16a-b02c-48ae-9b6a-6742b7c78704/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/SexMex-Melany-Latina-Erotic-Exchange-yourdailypornvideos.jpg",[SexMex] Melany Latina – Erotic Exchange
+https://vidhob.b-cdn.net/32432543.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sexmex-emily-thorne-gaby-veracruz-guadalupes-blooming-big-rose-yourdailypornvideos.jpg",[SexMex] Emily Thorne, Gaby Veracruz – Guadalupe’s Blooming Big Rose
+https://vz-c4e4e733-37a.b-cdn.net/72d9d213-2bfd-475e-9805-c4cce4b06fa8/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sexmex-michelle-aldrete-boobs-as-a-joystick-yourdailypornvideos.jpg",[SexMex] Michelle Aldrete – Boobs As A Joystick
+https://vz-88cd3b9f-0f4.b-cdn.net/e3492874-b367-4ecc-940e-e5914e255364/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sexmex-anai-loves-a-one-of-a-kind-stepdad-yourdailypornvideos.jpg",[SexMex] Anai Loves – A One-Of-A-Kind Stepdad
+https://vz-8257a2a2-0b6.b-cdn.net/86d1457a-83b2-4678-a1a6-882c3d13d67e/720p/video.m3u8
 
 ##SexyHub
 #EXTINF:-1 group-title="欧美" tvg-logo="https://media-public-ht.project1content.com/m=eeEaOFFb/d0f/421/03a/e28/4d2/bb1/5c5/ede/d45/339/20/poster/poster_01.jpg",[FitnessRooms] Belle Ohara – Deep breath, big stretch, hot fuck
@@ -5141,8 +4786,22 @@ https://suehow.b-cdn.net/Belle.mp4
 https://guttih.b-cdn.net/Emily.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MassageRooms-Samantha-Joiner-BBC-makes-her-feel-like-a-virgin-yourdailypornvideos.jpg",[MassageRooms] Samantha Joiner – BBC makes her feel like a virgin
 https://luagup.b-cdn.net/Samantha.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/FitnessRooms-Valentina-Coppola-Big-Ass-Aerobics.jpg",[FitnessRooms] Valentina Coppola – Big Ass Aerobics
+https://vz-42a1adcd-1f3.b-cdn.net/9d3412a6-6129-4192-a59a-bf164784ed50/480p/video.m3u8
 
+##Swallowed
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/AnalOnly-Stella-Luxx-Stellas-Anal-Agenda-yourdailypornvideos.jpg",[AnalOnly] Stella Luxx – Stella’s Anal Agenda
+https://fuchom.b-cdn.net/stella.mp4
+
+##ShowerX
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/ShowerX-Scarlett-Alexis-Scarlett-Shines-In-The-Shower.jpg",[ShowerX] Scarlett Alexis – Scarlett Shines in the Shower
+https://vz-38a50781-992.b-cdn.net/a6521b17-29c2-4bda-a248-714253fe7bab/720p/video.m3u8
+
+##Spizcash
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/TagTeamPOV-Curvy-Gigi-Lysette-Takes-On-Threesome-With-Double-Vaginal-Penetration.jpg",[TagTeamPOV] Curvy Gigi Lysette Takes On Threesome With Double Vaginal Penetration
+https://vz-6ccc3e59-9c0.b-cdn.net/b0c85f47-a1a2-4aca-98c6-c47f3013ecaa/480p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mrluckypov-alexis-fawx-busty-milf-alexis-fawx-cum-countdown-yourdailypornvideos.jpg",[MrLuckyPOV] Busty MILF Alexis Fawx Cum Countdown
+https://vz-d8467b3b-fe6.b-cdn.net/7613911f-bc63-420d-bd40-9bf55ccf598e/720p/video.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="",
 
 #EXTINF:-1 group-title="欧美" tvg-logo="",
@@ -5153,6 +4812,10 @@ https://luagup.b-cdn.net/Samantha.mp4
 ##SouthBayVideos
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/CuckHunter-Misty-Addams-Interracial-cuckold-thrill-Wife-rides-big-black-cock-while-husband-watches-yourdailypornvideos.jpg",[CuckHunter] Misty Addams – Interracial cuckold thrill – Wife rides big black cock while husband watches
 https://lozvil.b-cdn.net/misty.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/cuckhunter-interracial-cuckolds-surprise-pixie-kinzis-hidden-desire-yourdailypornvideos.jpg",[CuckHunter] Interracial Cuckold’s Surprise – Pixie Kinzi’s Hidden Desire
+https://vz-f5b0ee95-b9e.b-cdn.net/9494ffe9-f17b-4839-bb40-4e7fa0ec57e7/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="",
+
 #EXTINF:-1 group-title="欧美" tvg-logo="",
 
 #EXTINF:-1 group-title="欧美" tvg-logo="",
@@ -5161,8 +4824,8 @@ https://lozvil.b-cdn.net/misty.mp4
 ##TeamSkeet/MYLF
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Shoplyfter-Koda-Monroe-Daisy-Pheonix-Case-No.-8004809-The-Paintball-Thief-yourdailypornvideos.jpg",[Shoplyfter] Daisy Pheonix, Koda Monroe (Case No. 8004809 – The Paintball Thief)
 https://s1.strmupcdn.cc/hls/UGBRpgvDCiVznQhogaTC5x6ruO7YsF41/index_1920x1080.m3u8
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/shoplyfter-penelope-woods-the-ballerina-thief-vs-four-cocks-yourdailypornvideos.jpg",[Shoplyfter] Penelope Woods – Case No. 8004870 – The Ballerina Thief vs Four Cocks
+https://vz-491d88ce-5d3.b-cdn.net/1cfc9267-1e3d-44fb-9758-84f2a64d2df3/720p/video.m3u8
 #EXTINF:-1 group-title="欧美" tvg-logo="",
 
 #EXTINF:-1 group-title="欧美" tvg-logo="",
@@ -5211,34 +4874,42 @@ https://cewfan.b-cdn.net/artemisia.mp4
 https://vuubea.b-cdn.net/archer.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/UsePOV-Elise-london-She-Grounded-Me-So-Ill-Free-Use-Her-While-Im-Stuck-at-Home-yourdailypornvideos.jpg",[UsePOV] Elise london – She Grounded Me, So I’ll Free Use Her While I’m Stuck at Home
 https://zuokii.b-cdn.net/elise.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/ExxxtraSmall-Evie-Christian-Ive-Never-Stretched-Like-This-Before%E2%80%A6-Shes-So-Small-She-Can-Do-Any-Position-I-Want-yourdailypornvideos.jpg",[ExxxtraSmall] Evie Christian – “I’ve Never Stretched Like This Before…” She’s So Small! She Can Do Any Position I Want!
+https://viajaa.b-cdn.net/evie.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/MomDrips-Mia-James-Wendy-Raine-Aunt-Mia-Our-Horny-House-Guest-She-Was-Happy-I-Didnt-Pull-Out%E2%80%A6-yourdailypornvideos.jpg",[MomDrips] Mia James, Wendy Raine – Aunt Mia, Our Horny House Guest – She Was Happy I Didn’t Pull Out…
+https://bucpiv.b-cdn.net/wendy.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/mylfsingles-heather-bonanza-nickey-huntsman-earning-mom-nanas-approval-a-generational-in-law-threesome-heather-bonanza-debut-yourdailypornvideos.jpg",[MYLFSingles] Heather Bonanza, Nickey Huntsman – Earning Mom & Nana’s Approval – A Generational In-Law Threesome
+https://vz-8100afe0-764.b-cdn.net/b62b1881-5e67-49f6-84e2-dce344a8edfe/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/01/MyBabySittersClub-Lucy-Foxxx-The-Babysitter-Has-a-Kink-for-Men-With-Strong-Hands%E2%80%A6.jpg",[MyBabySittersClub] Lucy Foxxx – The Babysitter Has a Kink for Men With Strong Hands…
+https://vz-c71c6a05-245.b-cdn.net/baf81c0f-5fae-475f-8bb1-0f238169ed53/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/sislovesme-lana-smalls-kimora-quin-we-could-just-share-my-sister-stole-my-girlfriend-yourdailypornvideos.jpg",[SisLovesMe] Lana Smalls, Kimora Quin – “We Could Just Share…” My Sister Stole My Girlfriend!
+https://vz-6ccc3e59-9c0.b-cdn.net/993bb243-c0ce-4305-b6fb-97314b7e5f8d/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/TeamSkeetAllstars-February-Spotlight-Raven-Lane-Will-Make-This-the-Messiest-Hottest-Month-Youve-Ever-Had.jpg",[TeamSkeetAllstars] February Spotlight – Raven Lane Will Make This the Messiest, Hottest Month You’ve Ever Had
+https://vz-c0c9c455-168.b-cdn.net/36e4894d-ede0-4dd3-8bc8-e70504a2e6cd/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/FreakyFembots-Mira-Luv-Freya-von-Doom-My-Maidbot-Mira-Luv-Edition-Freya-Shares-Her-New-Toy%E2%80%A6-yourdailypornvideos.jpg",[FreakyFembots] Mira Luv, Freya von Doom – My Maidbot (Mira Luv Edition) Freya Shares Her New Toy…
+https://todwir.b-cdn.net/freya.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/familystrokes-ameena-green-meet-the-father-part-1-how-far-will-my-daughter-in-law-go-to-please-me-yourdailypornvideos.jpg",[FamilyStrokes] Ameena Green – Meet the Father, Part 1 – How Far Will My Daughter-In-Law Go To Please Me?
+https://vz-798e8c43-f4d.b-cdn.net/382954b5-862e-4d9e-95e0-755832fd8739/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/BreedingMaterial-Ronnie-Violet-The-Breeding-Consultant-Shy-Religious-Ronnies-Holy-Impregnation.jpg",[BreedingMaterial] Ronnie Violet – The Breeding Consultant – Shy & Religious Ronnie’s Holy Impregnation
+https://vz-3271fb4c-d05.b-cdn.net/5a67d60d-e8bc-4e1b-98d7-ac93aec16128/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://porneec.com/wp-content/uploads/2026/02/MylfOfTheMonth-February-Spotlight-Cami-Strella-Loves-When-You-Watch-Her%E2%80%A6.jpg",[MylfOfTheMonth] February Spotlight – Cami Strella Loves When You Watch Her…
+https://vz-88cd3b9f-0f4.b-cdn.net/0e8e6df1-9a46-4382-998c-3a7bbfa70b7e/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/reptylelabs-kitty-cam-concept-fucking-my-way-out-of-the-friend-zone-new-experiment-yourdailypornvideos.jpg",[ReptyleLabs] Kitty Cam – Concept – Fucking My Way Out of the Friend Zone (New Experiment!)
+https://vz-9316392c-035.b-cdn.net/a5ec9217-e1a1-41c1-b5b5-0d7021ff7073/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/usepov-carina-blair-sharing-mom-i-saw-instant-results-from-the-freeuse-technique-yourdailypornvideos.jpg",[UsePOV] Carina Blair – Sharing Mom – I Saw Instant Results from the Freeuse Technique!
+https://vz-9316392c-035.b-cdn.net/0f6ba1d5-6480-49b9-97e4-cbd68d6fd5ca/720p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/dadcrush-katerina-karson-i-get-to-cum-inside-you-katerina-keeps-ending-up-in-the-punishment-corner-yourdailypornvideos.jpg",[DadCrush] Katerina Karson – “I Get to Cum Inside You…” Katerina Keeps Ending up in the Punishment Corner
+https://vz-d4153a60-547.b-cdn.net/6ed8f881-c8f1-4936-b883-610f066c2f5b/720p/video.m3u8
 
 ##TabooHeat
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/TabooHeat-Cory-Chase-Stretch-My-Pussy-and-Fill-My-Mouth-with-Your-BBC-yourdailypornvideos.jpg",[TabooHeat] Cory Chase – Stretch My Pussy and Fill My Mouth with Your BBC
 https://kiwset.b-cdn.net/Cory.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+##TeenMegaWorld
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/anal-angels-molly-cute-a-movie-or-a-fuck-yourdailypornvideos.jpg",[Anal-Angels] Molly Cute – A movie or a fuck?
+https://vz-8257a2a2-0b6.b-cdn.net/2b954a43-653e-4dbb-a917-78e06619779c/720p/video.m3u8
 
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##Vixen
+##VixenPlus
 #EXTINF:-1 group-title="欧美" tvg-logo="https://cdn.vixen.com/scene/videoimages/106256/mainLandscape/1769074769043/vixen-stunning-blonde-besties-have-intense-threesome_1920x1080.webp",[Vixen] Jade J’adore, Avrora Meey – Stunning Blonde Besties Have Intense Threesome
 https://mizjeo.b-cdn.net/Jade.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/blackedraw-serena-sterling-insatiable-blonde-devours-monster-bbc-yourdailypornvideos.jpg",[BlackedRaw] Serena Sterling – Insatiable Blonde Devours Monster BBC
@@ -5259,12 +4930,20 @@ https://ridges.b-cdn.net/Spencer.mp4
 https://cepjin.b-cdn.net/Anna.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Blacked-Riley-Star-Tiny-Blonde-Cutie-Gets-Stretched-Out-By-BBC-yourdailypornvideos.jpg",[Blacked] Riley Star – Tiny Blonde Cutie Gets Stretched Out By BBC
 https://ridges.b-cdn.net/Riley.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/BlackedRaw-Anastasia-Cherry-Sweet-Blonde-Goes-Crazy-For-BBC-yourdailypornvideos.jpg",[BlackedRaw] Anastasia Cherry – Sweet Blonde Goes Crazy For BBC
+https://letsaw.b-cdn.net/Anastasia.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Wifey-Bella-Bare-Bella-And-The-Remedy-Blonde-MILF-Gets-Tag-Teamed-By-BBC-yourdailypornvideos.jpg",[Wifey] Bella Bare – Bella And The Remedy – Blonde MILF Gets Tag-Teamed By BBC
+https://wejrug.b-cdn.net/Bella.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/vixen-molly-little-xxlayna-marie-tiny-bffs-molly-and-xxlayna-have-naughty-threesome-yourdailypornvideos.jpg",[Vixen] Molly Little, Xxlayna Marie – Tiny BFFs Molly And Xxlayna Have Naughty Threesome
+https://mahloe.b-cdn.net/Molly.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/tushy-liz-jordan-milan-cheek-cock-hungry-hotties-have-intense-anal-foursome-yourdailypornvideos.jpg",[Tushy] Liz Jordan, Milan Cheek – Cock-Hungry Hotties Have Intense Anal Foursome
+https://faubad.b-cdn.net/Milan.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/tushyraw-melanie-marie-petite-redhead-gets-her-perfect-ass-filled-yourdailypornvideos.jpg",[TushyRaw] Melanie Marie – Petite Redhead Gets Her Perfect Ass Filled
+https://faubad.b-cdn.net/Melanie.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/blacked-jessi-rae-flawless-redhead-jessi-gets-bbc-creampie-yourdailypornvideos.jpg",[Blacked] Jessi Rae – Flawless Redhead Jessi Gets BBC Creampie
+https://sadguh.b-cdn.net/jessi.mp4
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/slayed-phoenix-marie-gizelle-blanco-jayden-cole-nadia-jay-milf-phoenix-squirts-in-all-girl-orgy-with-besties-yourdailypornvideos.jpg",[Slayed] Phoenix Marie, Gizelle Blanco, Jayden Cole, Nadia Jay – MILF Phoenix Squirts In All-Girl Orgy With Besties
+https://vz-4714ce30-4df.b-cdn.net/db02c978-247d-4993-98e4-05924508005d/720p/video.m3u8
 
 ##VIP4K
 #EXTINF:-1 group-title="欧美" tvg-logo="https://cdn.black4k.com/content/sets/834bb812-9df3-4d10-a19f-5f3fed2deb57/7f2303bc-f86c-423d-8648-e7834f901685.webp",[Shame4k] Maya Evans – Click Flick
@@ -5273,36 +4952,13 @@ https://mizjeo.b-cdn.net/Maya.mp4
 https://pecygaki.b-cdn.net/Hailey.mp4
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/Hunt4K-Anna-Bella-Crime-And-Consequence-yourdailypornvideos.jpg",[Hunt4K] Anna Bella – Crime And Consequence
 https://codvia.b-cdn.net/bella.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##XEmpire
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-
-##XXL
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/hunt4k-lula-stocch-another-good-doggy-yourdailypornvideos.jpg",[Hunt4k] Lula Stocch – Another Good Doggy
+https://vz-8c7f7d74-cb8.b-cdn.net/8ee47c59-a048-4eb3-9a4b-ce14d036ed7c/480p/video.m3u8
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/daddy4k-nikoletta-queen-sex-lies-and-pool-yourdailypornvideos.jpg",[Daddy4k] Nikoletta Queen – Sex, lies, and pool
+https://vz-42a1adcd-1f3.b-cdn.net/b105bd67-5b39-411b-9c19-2d3ee30bfa30/720p/video.m3u8
 
 ##5KVids
 #EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/01/5KPorn-Novella-Night-Deep-in-the-Night-yourdailypornvideos.jpg",[5KPorn] Novella Night – Deep in the Night!
 https://behvae.b-cdn.net/novella.mp4
-#EXTINF:-1 group-title="欧美" tvg-logo="",
-
-#EXTINF:-1 group-title="欧美" tvg-logo="",
+#EXTINF:-1 group-title="欧美" tvg-logo="https://yourdailypornvideos.ws/wp-content/uploads/2026/02/5kporn-maya-sinn-mayas-deadly-sinn-yourdailypornvideos.jpg",[5KPorn] Maya Sinn – Maya’s Deadly Sinn
+https://vz-8d021e48-97f.b-cdn.net/c9a6c62f-8986-41c3-b42d-2f9e093c1400/720p/video.m3u8
