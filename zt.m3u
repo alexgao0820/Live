@@ -57,6 +57,8 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 #EXTINF:-1 group-title="电影",HBO 
+http://148.113.160.49:14187
+#EXTINF:-1 group-title="电影",HBO 
 http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
