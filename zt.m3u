@@ -86,6 +86,8 @@ http://148.113.160.49:14193/
 http://148.113.160.49:14180/
 #EXTINF:-1 group-title="电影",HBO Family
 http://148.113.160.49:14190/
+#EXTINF:-1 group-title="电影",TNT FHD
+https://a1xs.vip/300001
 #EXTINF:-1 group-title="电影",CHC 动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="电影",CHC 影迷电影
@@ -155,17 +157,31 @@ https://smart.dxjc.pp.ua/smart.php?id=Astrobein1&token=tmxk
 https://smart.dxjc.pp.ua/smart.php?id=Astrobein2&token=tmxk
 #EXTINF:-1 group-title="体育",ASTRO BEIN SPORTS 3
 https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
-#EXTINF:-1 group-title="体育",ELTA 体育 1
-http://208.87.242.79/livehttpplay?channel_id=20129
-#EXTINF:-1 group-title="体育",ELTA 体育 2
-http://208.87.242.79/livehttpplay?channel_id=20107
-#EXTINF:-1 group-title="体育",ELTA 体育 3
-http://208.87.242.79/livehttpplay?channel_id=21422
-#EXTINF:-1 group-title="体育",ELTA 体育 4
-http://208.87.242.79/livehttpplay?channel_id=20100
+#EXTINF:-1 group-title="体育",ESPN 
+https://a1xs.vip/40000011
+#EXTINF:-1 group-title="体育",ESPN 
+http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+#EXTINF:-1 group-title="体育",ESPN 2
+http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+#EXTINF:-1 group-title="体育",TSN 1
+https://a1xs.vip/6000001
+#EXTINF:-1 group-title="体育",TSN 2
+https://a1xs.vip/6000002
+#EXTINF:-1 group-title="体育",FOX SPORTS 501
+https://a1xs.vip/700001
+#EXTINF:-1 group-title="体育",FOX SPORTS 502
+https://a1xs.vip/700002
+#EXTINF:-1 group-title="体育",FOX SPORTS 504
+https://a1xs.vip/700004
+#EXTINF:-1 group-title="体育",FOX SPORTS 507
+https://a1xs.vip/700007
 
 #EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
+#EXTINF:-1 group-title="国际新闻",SKYNEWS
+https://a1xs.vip/1000018
+#EXTINF:-1 group-title="国际新闻",ABC
+http://stream.cammonitorplus.net/1790/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 group-title="国际新闻",CNN
 https://t.freetv.fun/live/cnn-4.m3u8
 #EXTINF:-1 group-title="国际新闻",BBC
@@ -178,6 +194,8 @@ http://panelguys.top:8080/txd7Fd/030774/1818
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际新闻",FOX LIVE NOW
 https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/b3bd0bc8-906e-470e-8f4a-94558dfb0442/3.m3u8
+#EXTINF:-1 group-title="国际新闻",FOX 2 DETROIT
+http://stream.cammonitorplus.net/1772/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 group-title="国际新闻",NEWSMAX
 https://t.freetv.fun/live/newsmax.m3u8
 #EXTINF:-1 group-title="国际新闻",NEWSMAX2
@@ -186,6 +204,8 @@ https://t.freetv.fun/live/newsmax-2-1.m3u8
 https://jmp2.uk/stvp-CAAJ2700011IF
 #EXTINF:-1 group-title="国际新闻",CBC NEWS BC
 https://jmp2.uk/stvp-CA15000018F 
+#EXTINF:-1 group-title="国际新闻",CBS
+http://stream.cammonitorplus.net/1810/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 
 #EXTINF:-1 group-title="4K",无线翡翠4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
