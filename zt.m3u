@@ -111,7 +111,9 @@ http://208.87.242.79/livehttpplay?channel_id=13011
 http://208.87.242.79/livehttpplay?channel_id=13012
 #EXTINF:-1 group-title="体育",NOW 6
 http://67.220.67.246:2347/livehttpplay?channel_id=13012
-#EXTINF:-1 group-title="体育",SKY SPORTS EPL
+#EXTINF:-1 group-title="体育",SKY SPORTS PL
+https://a1xs.vip/2000002
+#EXTINF:-1 group-title="体育",SKY SPORTS PL
 https://smart.dxjc.pp.ua/smart.php?id=tiankongepl&token=tmxk
 #EXTINF:-1 group-title="体育",SKY SPORTS CRICKET
 https://a1xs.vip/2000006
@@ -119,8 +121,14 @@ https://a1xs.vip/2000006
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2179.ts
 #EXTINF:-1 group-title="体育",SKY SPORTS NEWS
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2183.ts
+#EXTINF:-1 group-title="体育",SKY SPORTS NEWS
+https://a1xs.vip/2000004
 #EXTINF:-1 group-title="体育",SKY SPORTS MIX
 https://a1xs.vip/2000008
+#EXTINF:-1 group-title="体育",SKY SPORTS MAIN EVENTS
+https://a1xs.vip/2000001
+#EXTINF:-1 group-title="体育",SKY SPORTS MAIN EVENTS
+https://a1xs.vip/2000015
 #EXTINF:-1 group-title="体育",ASTRO PREMIER LEAGUE 1
 https://smart.dxjc.pp.ua/smart.php?id=go_assp1&token=tmxk
 #EXTINF:-1 group-title="体育",ASTRO PREMIER LEAGUE 1
