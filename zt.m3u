@@ -207,11 +207,13 @@ https://jmp2.uk/stvp-CA15000018F
 #EXTINF:-1 group-title="国际新闻",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 
-#EXTINF:-1 group-title="4K",无线翡翠4K
+#EXTINF:-1 group-title="4K",无线翡翠 4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-#EXTINF:-1 group-title="4K",无线翡翠4K
+#EXTINF:-1 group-title="4K",无线翡翠 4K
 https://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 group-title="4K",浙江卫视4K
+#EXTINF:-1 group-title="4K",浙江卫视 4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1 group-title="4K",江苏卫视4K
-https://5r5tv.71781011.xyz/stream/channelid/358431831?ticket=8a246a0682068c73fd3fe316c478e5b308a27fcc&profile=pass
+#EXTINF:-1 group-title="4K",江苏卫视 4K
+http://124.116.170.138:8081/rtp/239.111.205.64:5140
+#EXTINF:-1 group-title="4K",北京卫视 4K
+http://106.53.99.30/tv/bj.php?id=bjws4k
