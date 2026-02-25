@@ -74,10 +74,14 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
+#EXTINF:-1 group-title="电影",HBO 2 EAST
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3656.ts
 #EXTINF:-1 group-title="电影",HBO WEST
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
 #EXTINF:-1 group-title="电影",HBO ZONE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
+#EXTINF:-1 group-title="电影",HBO SIGNATURE
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51551.ts
 #EXTINF:-1 group-title="电影",HBO Mundi
 http://148.113.160.49:14185
 #EXTINF:-1 group-title="电影",HBO+
@@ -86,8 +90,20 @@ http://148.113.160.49:14193/
 http://148.113.160.49:14180/
 #EXTINF:-1 group-title="电影",HBO Family
 http://148.113.160.49:14190/
-#EXTINF:-1 group-title="电影",TNT FHD
+#EXTINF:-1 group-title="电影",TNT 
 https://a1xs.vip/300001
+#EXTINF:-1 group-title="电影",FXM
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2497.ts
+#EXTINF:-1 group-title="电影",MGM+
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3949.ts
+#EXTINF:-1 group-title="电影",MGM+ DRIVE-IN
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4431.ts
+#EXTINF:-1 group-title="电影",PARAMOUNT
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3677.ts
+#EXTINF:-1 group-title="电影",AMC
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3608.ts
+#EXTINF:-1 group-title="电影",CINEMAX EAST
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3622.ts
 #EXTINF:-1 group-title="电影",CHC 动作电影
 http://38.75.136.137:98/gslb/dsdqpub/chcdz.m3u8?auth=testpub
 #EXTINF:-1 group-title="电影",CHC 影迷电影
@@ -160,13 +176,23 @@ https://smart.dxjc.pp.ua/smart.php?id=Astrobein3&token=tmxk
 #EXTINF:-1 group-title="体育",ESPN 
 https://a1xs.vip/40000011
 #EXTINF:-1 group-title="体育",ESPN 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
+#EXTINF:-1 group-title="体育",ESPN 
 http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
 #EXTINF:-1 group-title="体育",ESPN 2
 http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+#EXTINF:-1 group-title="体育",ESPN 2
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
 #EXTINF:-1 group-title="体育",TSN 1
 https://a1xs.vip/6000001
+#EXTINF:-1 group-title="体育",TSN 1
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
 #EXTINF:-1 group-title="体育",TSN 2
 https://a1xs.vip/6000002
+#EXTINF:-1 group-title="体育",TSN 3
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+#EXTINF:-1 group-title="体育",TSN 5
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
 #EXTINF:-1 group-title="体育",FOX SPORTS 501
 https://a1xs.vip/700001
 #EXTINF:-1 group-title="体育",FOX SPORTS 502
@@ -206,6 +232,12 @@ https://jmp2.uk/stvp-CAAJ2700011IF
 https://jmp2.uk/stvp-CA15000018F 
 #EXTINF:-1 group-title="国际新闻",CBS
 http://stream.cammonitorplus.net/1810/index.m3u8?token=MnE3ZWg1YkgxdFdWZlo2c2hLMkltWnJhcFo1OHhxcXVyb2pKazZXaWxZRERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
+#EXTINF:-1 group-title="国际新闻",BLOOMBERG TV
+https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 group-title="国际新闻",CNBC
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3624.ts
+#EXTINF:-1 group-title="国际新闻",DISCOVERY
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3629.ts
 
 #EXTINF:-1 group-title="4K",无线翡翠 4K
 http://php.jdshipin.com/TVOD/iptv.php?id=fct4
@@ -217,3 +249,16 @@ https://play-qukan.cztv.com/live/1758879019692345.m3u8
 http://124.116.170.138:8081/rtp/239.111.205.64:5140
 #EXTINF:-1 group-title="4K",北京卫视 4K
 http://106.53.99.30/tv/bj.php?id=bjws4k
+#EXTINF:-1 group-title="4K",东方卫视 4K
+http://106.53.99.30/tv/api.php?id=dfws4k
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://106.116.241.77:9999/rtp/239.254.201.67:6000
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://118.251.97.221:8888/rtp/239.76.254.64:9000
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://220.176.218.92:9000/rtp/239.252.219.60:5140
+#EXTINF:-1 group-title="4K",CCTV 16
+http://27.18.144.45:9100/rtp/239.69.1.12:9712
+
