@@ -201,8 +201,12 @@ https://a1xs.vip/700002
 https://a1xs.vip/700004
 #EXTINF:-1 group-title="体育",FOX SPORTS 507
 https://a1xs.vip/700007
-#EXTINF:-1 group-title="体育",西甲
+#EXTINF:-1 group-title="体育",西甲 塞尔塔vs皇马
 https://vodcnd02.myqqdd.com/20260307/noeymdmp/index.m3u8
+#EXTINF:-1 group-title="体育"，欧冠1/8 纽卡斯尔vs巴萨
+https://vodcnd02.myqqdd.com/20260311/0dxl6ZWD/index.m3u8
+#EXTINF:-1 group-title="体育"，欧冠1/8 加拉塔塞雷vs利物浦
+https://vodcnd02.myqqdd.com/20260311/V4hNNPit/index.m3u8
 
 #EXTINF:-1 group-title="国际新闻",SKYNEWS
 https://d25w9q07b2mtmw.cloudfront.net/live/master_5.m3u8
