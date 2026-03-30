@@ -345,6 +345,8 @@ http://118.251.97.221:8888/rtp/239.76.254.64:9000
 http://220.176.218.92:9000/rtp/239.252.219.60:5140
 #EXTINF:-1 group-title="4K",CCTV 4K
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
+#EXTINF:-1 group-title="4K",CCTV 4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 #EXTINF:-1 group-title="4K",CCTV 16
 http://27.18.144.45:9100/rtp/239.69.1.12:9712
 #EXTINF:-1 group-title="4K",CCTV 16
