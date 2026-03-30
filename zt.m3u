@@ -14,6 +14,8 @@ http://67.220.67.246:2347/livehttpplay?channel_id=20163
 #EXTINF:-1 group-title="港台",中天新闻2
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 #EXTINF:-1 group-title="港台",中天新闻2
+http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20222
+#EXTINF:-1 group-title="港台",中天新闻2
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv009
 #EXTINF:-1 group-title="港台",中视新闻
 https://edgeone.passwdword.xyz/ofiii-passwd.php?token=passwd&id=4gtv-4gtv074
