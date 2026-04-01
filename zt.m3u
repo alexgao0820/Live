@@ -154,18 +154,38 @@ http://iptv.4666888.xyz/iptv2A.php?id=21
 http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
 #EXTINF:-1 group-title="电影",华数经典
 http://vpn.famcloud.top:9878/rtp/239.3.1.195:9024
+#EXTINF:-1 group-title="电影",华数经典
+http://221.220.131.11:8168/rtp/239.3.1.195:9024
 #EXTINF:-1 group-title="电影",华数星影
 http://vpn.famcloud.top:9878/rtp/239.3.1.94:4120
+#EXTINF:-1 group-title="电影",华数星影
+http://221.220.131.11:8168/rtp/239.3.1.94:4120
 #EXTINF:-1 group-title="电影",华数动作
 http://vpn.famcloud.top:9878/rtp/239.3.1.92:4120
+#EXTINF:-1 group-title="电影",华数动作
+http://221.220.131.11:8168/rtp/239.3.1.92:4120
 #EXTINF:-1 group-title="电影",华数喜剧
 http://vpn.famcloud.top:9878/rtp/239.3.1.91:4120
+#EXTINF:-1 group-title="电影",华数喜剧
+http://221.220.131.11:8168/rtp/239.3.1.91:4120
 #EXTINF:-1 group-title="电影",华数家庭
 http://vpn.famcloud.top:9878/rtp/239.3.1.93:4120
+#EXTINF:-1 group-title="电影",华数家庭
+http://221.220.131.11:8168/rtp/239.3.1.93:4120
 #EXTINF:-1 group-title="电影",华数精选
 http://vpn.famcloud.top:9878/rtp/239.3.1.74:4120
+#EXTINF:-1 group-title="电影",华数精选
+http://221.220.131.11:8168/rtp/239.3.1.74:4120
 #EXTINF:-1 group-title="电影",华数热播剧场
 http://vpn.famcloud.top:9878/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="电影",华数热播剧场
+http://221.220.131.11:8168/rtp/239.3.1.194:9020
+#EXTINF:-1 group-title="电影",华数军旅
+http://221.220.131.11:8168/rtp/239.3.1.68:4120
+#EXTINF:-1 group-title="电影",华数城市
+http://221.220.131.11:8168/rtp/239.3.1.67:4120
+#EXTINF:-1 group-title="电影",华数武侠
+http://221.220.131.11:8168/rtp/239.3.1.90:4120
 
 #EXTINF:-1 group-title="体育",TNT SPORTS 1
 https://a1xs.vip/2000021
@@ -365,9 +385,11 @@ http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 http://27.18.144.45:9100/rtp/239.69.1.12:9712
 #EXTINF:-1 group-title="4K",CCTV 16
 http://111.56.90.5/000000000000/5000000008000023254/1.m3u8
-#EXTINF:-1 group-title="电影",华数4K
+#EXTINF:-1 group-title="4K",华数4K
 http://vpn.famcloud.top:9878/rtp/239.3.1.236:2000
-#EXTINF:-1 group-title="电影",华数4K
+#EXTINF:-1 group-title="4K",华数4K
+http://221.220.131.11:8168/rtp/239.3.1.236:2000
+#EXTINF:-1 group-title="4K",华数4K
 http://221.220.131.11:8168/rtp/239.3.1.236:2000
 
 
