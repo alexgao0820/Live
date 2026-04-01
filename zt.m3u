@@ -255,8 +255,10 @@ https://a1xs.vip/700002
 https://a1xs.vip/700004
 #EXTINF:-1 group-title="体育",FOX SPORTS 507
 https://a1xs.vip/700007
-#EXTINF:-1 group-title="体育",SporTV
+#EXTINF:-1 group-title="体育",SporTV 巴西
 http://79.127.243.211:14469
+#EXTINF:-1 group-title="体育",RBS TV Santa Cruz 巴西
+http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18258.ts
 #EXTINF:-1 group-title="体育",西甲 塞尔塔vs皇马
 https://vodcnd02.myqqdd.com/20260307/noeymdmp/index.m3u8
 #EXTINF:-1 group-title="体育",西甲 毕尔巴赫竞技vs巴萨
