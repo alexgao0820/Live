@@ -86,16 +86,16 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 http://148.113.160.49:14187
 #EXTINF:-1 group-title="电影",HBO 
 http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="电影",HBO 
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/7776.m3u8
+#EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="电影",HBO 
+http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 
 http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
-#EXTINF:-1 group-title="电影",HBO
-http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
 #EXTINF:-1 group-title="电影",HBO 2
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2
+http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
 #EXTINF:-1 group-title="电影",HBO 2 EAST
