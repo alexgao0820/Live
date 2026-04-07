@@ -86,6 +86,18 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
 http://148.113.160.49:14187
 #EXTINF:-1 group-title="电影",HBO 
 http://fl1.moveonjoy.com/HBO/index.m3u8
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648982.ts
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648983.ts
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648984.ts
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648985.ts
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648986.ts
+#EXTINF:-1 group-title="电影",HBO 
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648988.ts
 #EXTINF:-1 tvg-id="HBO.East.us2" tvg-name="HBO" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10240_dark_360w_270h.png" group-title="电影",HBO 
 http://23.237.104.106:8080/USA_HBO/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 
@@ -106,6 +118,8 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
 #EXTINF:-1 group-title="电影",HBO SIGNATURE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51551.ts
+#EXTINF:-1 group-title="电影",HBO SIGNATURE
+https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648981.ts
 #EXTINF:-1 group-title="电影",HBO Mundi
 http://148.113.160.49:14185
 #EXTINF:-1 group-title="电影",HBO+
