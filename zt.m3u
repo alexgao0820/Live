@@ -81,18 +81,6 @@ http://dxa.yiandrive.com:39191/phenix/fhhk
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 
 #EXTINF:-1 group-title="电影",HBO 
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/532.m3u8
-#EXTINF:-1 group-title="电影",HBO 
-http://148.113.160.49:14187
-#EXTINF:-1 group-title="电影",HBO 
-http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 group-title="电影",HBO 
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648982.ts
-#EXTINF:-1 group-title="电影",HBO 
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648983.ts
-#EXTINF:-1 group-title="电影",HBO 
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648984.ts
-#EXTINF:-1 group-title="电影",HBO 
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648985.ts
 #EXTINF:-1 group-title="电影",HBO 
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648986.ts
@@ -106,7 +94,7 @@ http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/531.m3u8
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3188.ts
 #EXTINF:-1 group-title="电影",HBO 2
 http://fl1.moveonjoy.com/HBO_2/index.m3u8
-#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="国际",HBO 2
+#EXTINF:-1 tvg-id="HBO2.HD.us2" tvg-name="HBO 2" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s68140_dark_360w_270h.png" group-title="电影",HBO 2
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
@@ -120,28 +108,12 @@ https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51551.ts
 #EXTINF:-1 group-title="电影",HBO SIGNATURE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/648981.ts
-#EXTINF:-1 group-title="电影",HBO Mundi
-http://148.113.160.49:14185
 #EXTINF:-1 group-title="电影",HBO+
 http://nor3live.win:80/livehttpplay?channel_id=23359
 #EXTINF:-1 group-title="电影",HBO HD
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mGrZcwK1dZ7bGeU0qVprgcfpFuGaCu4nsb3PunUObDR-S7mGOcXUVHBDR7doGwqccs-usV859TpPCuLShw0kUvybURZKyhNh5bdefpCo3xPo39BWk9wg28fZOWIn2w25nNWa6DmdwmzA7mnHTBVSKd6iLFxcC5ipMP_nXWWPX3eT4GJCy8cSq6Z6c295ATfCjA.m3u8?u=1756878715
 #EXTINF:-1 group-title="电影",HBO Family
 http://8.218.84.3:8885/live/LxWcScuQ6WphaELY4DhkKm8SIv7_ZgNIJtNvFurqphvyqxUIU84OjKVCwFxMq9iUvKU-Aw4PFwAvIn8K7Du4mJPp0JaaWt0UHnPdZ2oXPXt8AD-2wmgj1uSMZmlbnVxV9-jLgZGzM1jBGKeAZ87oRrO9E_Xvob7XVEm6y4Qr2jgdjYQH_9d-EKyI8DgsgaJyX-YdylzYa8MNkrKE-WqwQb_JXp1kHNpOLlV9s3QODVFXsySRRKetl-cazstKWOUZLtnLtVW4LGZCpPx_VNyww7L5fjvFJBQDmDsgfJsx2aY.m3u8?u=1756878715
-#EXTINF:-1 group-title="电影",TNT 
-https://a1xs.vip/300001
-#EXTINF:-1 group-title="电影",FXM
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2497.ts
-#EXTINF:-1 group-title="电影",MGM+
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3949.ts
-#EXTINF:-1 group-title="电影",MGM+ DRIVE-IN
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/4431.ts
-#EXTINF:-1 group-title="电影",PARAMOUNT
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3677.ts
-#EXTINF:-1 group-title="电影",AMC
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3608.ts
-#EXTINF:-1 group-title="电影",CINEMAX EAST
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3622.ts
 #EXTINF:-1 group-title="电影",东森电影
 https://t.freetv.fun/live/dong-sen-dian-ying-1.m3u8
 #EXTINF:-1 group-title="电影",东森电影
@@ -229,36 +201,6 @@ https://a1xs.vip/2000008
 https://a1xs.vip/2000001
 #EXTINF:-1 group-title="体育",SKY SPORTS MAIN EVENTS
 https://a1xs.vip/2000015
-#EXTINF:-1 group-title="体育",ESPN 
-https://a1xs.vip/40000011
-#EXTINF:-1 group-title="体育",ESPN 
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3636.ts
-#EXTINF:-1 group-title="体育",ESPN 
-http://snowbank.houseinventer.com/6500/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
-#EXTINF:-1 group-title="体育",ESPN 2
-http://snowbank.houseinventer.com/6501/index.m3u8?token=M1lDdWljYkdyZGFhZzVxeGc2Mkt5OGJicWNxd2xheDkzWWVieEt5b3lZVERxNEduaVp1UnBxU2VlWmF0ZnRlRGxaMm1zNStDbnJOOXFZMlhtcStybmc9PQ==
-#EXTINF:-1 group-title="体育",ESPN 2
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3637.ts
-#EXTINF:-1 group-title="体育",TSN 1
-https://a1xs.vip/6000001
-#EXTINF:-1 group-title="体育",TSN 1
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
-#EXTINF:-1 group-title="体育",TSN 2
-https://a1xs.vip/6000002
-#EXTINF:-1 group-title="体育",TSN 3
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
-#EXTINF:-1 group-title="体育",TSN 5
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
-#EXTINF:-1 group-title="体育",FOX SPORTS 501
-https://a1xs.vip/700001
-#EXTINF:-1 group-title="体育",FOX SPORTS 502
-https://a1xs.vip/700002
-#EXTINF:-1 group-title="体育",FOX SPORTS 504
-https://a1xs.vip/700004
-#EXTINF:-1 group-title="体育",FOX SPORTS 507
-https://a1xs.vip/700007
-#EXTINF:-1 group-title="体育",SporTV 巴西
-http://79.127.243.211:14469
 #EXTINF:-1 group-title="体育",RBS TV Santa Cruz 巴西
 http://sinalmycn.com:80/live/632035/GqGcFV4ntu/18258.ts
 
