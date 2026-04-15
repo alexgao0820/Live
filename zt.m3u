@@ -98,12 +98,6 @@ http://fl1.moveonjoy.com/HBO_2/index.m3u8
 http://23.237.104.106:8080/USA_HBO2/index.m3u8
 #EXTINF:-1 group-title="电影",HBO 2
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3655.ts
-#EXTINF:-1 group-title="电影",HBO 2 EAST
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3656.ts
-#EXTINF:-1 group-title="电影",HBO WEST
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
-#EXTINF:-1 group-title="电影",HBO ZONE
-https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/631877.ts
 #EXTINF:-1 group-title="电影",HBO SIGNATURE
 https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/51551.ts
 #EXTINF:-1 group-title="电影",HBO SIGNATURE
