@@ -168,13 +168,13 @@ http://221.220.131.11:8168/rtp/239.3.1.67:4120
 http://221.220.131.11:8168/rtp/239.3.1.90:4120
 
 #EXTINF:-1 group-title="体育",TNT SPORTS 1
-https://a1xs.vip/2000021
+https://cdn-1.ttvb.eu.org/api/TNT-Sports-1/index.m3u8
 #EXTINF:-1 group-title="体育",TNT SPORTS 2
-https://a1xs.vip/2000022
+https://cdn-1.ttvb.eu.org/api/TNT-Sports-2/index.m3u8
 #EXTINF:-1 group-title="体育",TNT SPORTS 3
-https://a1xs.vip/2000023
+https://cdn-1.ttvb.eu.org/api/TNT-Sports-3/index.m3u8
 #EXTINF:-1 group-title="体育",TNT SPORTS 4
-https://a1xs.vip/2000024
+https://cdn-1.ttvb.eu.org/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 group-title="体育",TNT SPORTS ULTIMATE
 https://a1xs.vip/2000031
 #EXTINF:-1 group-title="体育",SKY SPORTS PL
