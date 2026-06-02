@@ -280,7 +280,7 @@ http://221.220.131.11:8168/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K",四川卫视 4K
 http://vpn.famcloud.top:9878/rtp/239.3.1.131:3001
 #EXTINF:-1 group-title="4K",CCTV 4K
-http://106.116.241.77:9999/rtp/239.254.201.67:6000
+https://live.264788.xyz/channel/cctv4k?streamid=69b8ad870d6e6b638349a2eb5d3c6e98&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 #EXTINF:-1 group-title="4K",CCTV 4K
 http://www.520345.xyz:8188/rtp/239.69.1.111:10304?
 #EXTINF:-1 group-title="4K",CCTV 4K
